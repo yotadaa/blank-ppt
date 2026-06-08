@@ -29,6 +29,10 @@ qa/*.json
 # Accidental root lockfile; the app lockfile lives in code-snapshot/
 /package-lock.json
 
+# Local source/reference bundles; keep them on disk, not in git.
+skripsi-presenter-web/
+source-docs/
+
 # Local AI/session artifacts
 .opencode-context.md
 .opencode-jce/
