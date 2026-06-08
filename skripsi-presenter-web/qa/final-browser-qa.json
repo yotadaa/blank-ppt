@@ -1,0 +1,51 @@
+{
+  "viewport": {
+    "h": 720,
+    "w": 1280
+  },
+  "initial4": {
+    "activeNav": "Pendahuluan",
+    "activeSlide": "1",
+    "activeTitle": "Optimasi Algoritma Genetika Menggunakan Fuzzy Logic pada Penjadwalan Praktikum",
+    "brokenImages": [],
+    "scale": "0.8079",
+    "slides": 45,
+    "title": "Presenter Web - Optimasi Penjadwalan Praktikum"
+  },
+  "right4": {
+    "activeNav": "Pendahuluan",
+    "activeSlide": "2",
+    "activeTitle": "Agenda Presentasi",
+    "detailOpen": false,
+    "hash": "#slide-2",
+    "progressWidth": "4.44%"
+  },
+  "left4": {
+    "activeNav": "Pendahuluan",
+    "activeSlide": "2",
+    "activeTitle": "Agenda Presentasi",
+    "detailOpen": false,
+    "hash": "#slide-2"
+  },
+  "detail4": {
+    "bodyChars": 563,
+    "hasImage": true,
+    "hasTable": true,
+    "open": true,
+    "refs": [
+      "(Yazid, 2025)",
+      "(Pratama, 2025)"
+    ],
+    "title": "Bagian pendahuluan menempatkan masalah praktikum sebagai persoalan optimasi ya..."
+  },
+  "nav4": {
+    "activeNav": "Metodologi",
+    "activeSlide": "25",
+    "activeTitle": "BAB III - Metodologi",
+    "hash": "#slide-25",
+    "navGliderLeft": "177.43741127653485px",
+    "navGliderWidth": "83.31257276774663px"
+  },
+  "relevantLogCount": 0,
+  "logs": []
+}

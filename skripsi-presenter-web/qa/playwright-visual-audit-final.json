@@ -1,0 +1,1220 @@
+{
+  "generatedAt": "2026-06-05T10:52:00.721Z",
+  "browserFallback": "Browser plugin session became invalid; Playwright used with local Chrome for rendered validation.",
+  "viewport": {
+    "width": 1920,
+    "height": 1080
+  },
+  "slideCount": 45,
+  "issues": [],
+  "consoleLogs": [],
+  "slideReports": [
+    {
+      "slide": 1,
+      "title": "Optimasi Algoritma Genetika Menggunakan Fuzzy Logic pada Penjadwalan Praktikum",
+      "chapter": "Pendahuluan",
+      "bodyHasBrokenPreview": false,
+      "conflictTheory": false,
+      "greedy": false,
+      "imgs": [
+        {
+          "src": "assets/logo-unja.png",
+          "w": 960,
+          "h": 964,
+          "complete": true
+        }
+      ],
+      "imageIssues": [],
+      "viewportIssues": [],
+      "smallText": [],
+      "activeTextSample": "FST UNIVERSITAS JAMBI Optimasi Penjadwalan Praktikum 01 SEMINAR SKRIPSI Optimasi Algoritma Genetika Menggunakan Fuzzy Logic pada Penjadwalan Praktikum Mukhtada Billah NST NIM F1E122037 - Sistem Informasi Pembimbing Utama Pradita Eko Prasetyo Utomo, S.Pd., M.Cs",
+      "screenshot": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-final\\slide-01.png"
+    },
+    {
+      "slide": 2,
+      "title": "Agenda Presentasi",
+      "chapter": "Pendahuluan",
+      "bodyHasBrokenPreview": false,
+      "conflictTheory": false,
+      "greedy": false,
+      "imgs": [
+        {
+          "src": "assets/logo-unja.png",
+          "w": 960,
+          "h": 964,
+          "complete": true
+        }
+      ],
+      "imageIssues": [],
+      "viewportIssues": [],
+      "smallText": [],
+      "activeTextSample": "FST UNIVERSITAS JAMBI Optimasi Penjadwalan Praktikum 02 AGENDA Agenda Presentasi Alur presentasi bergerak dari masalah praktikum, landasan teori, metodologi, hasil, hingga penutup secara runtut. Struktur ini menempatkan kontribusi penelitian sejak awal agar ar",
+      "screenshot": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-final\\slide-02.png"
+    },
+    {
+      "slide": 3,
+      "title": "BAB I - Pendahuluan",
+      "chapter": "Pendahuluan",
+      "bodyHasBrokenPreview": false,
+      "conflictTheory": true,
+      "greedy": false,
+      "imgs": [
+        {
+          "src": "assets/logo-unja.png",
+          "w": 960,
+          "h": 964,
+          "complete": true
+        },
+        {
+          "src": "assets/reference-html-images/ref-slide-03-img-07.webp",
+          "w": 1108,
+          "h": 760,
+          "complete": true
+        }
+      ],
+      "imageIssues": [],
+      "viewportIssues": [],
+      "smallText": [],
+      "activeTextSample": "FST UNIVERSITAS JAMBI Optimasi Penjadwalan Praktikum 03 BAB I BAB I - Pendahuluan Masalah praktikum muncul sebagai persoalan optimasi karena ruang, waktu, peserta, durasi, asisten, dan jadwal mata kuliah tatap muka/teori harus dipadukan dalam satu jadwal yang ",
+      "screenshot": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-final\\slide-03.png"
+    },
+    {
+      "slide": 4,
+      "title": "Pendahuluan",
+      "chapter": "Pendahuluan",
+      "bodyHasBrokenPreview": false,
+      "conflictTheory": true,
+      "greedy": false,
+      "imgs": [
+        {
+          "src": "assets/logo-unja.png",
+          "w": 960,
+          "h": 964,
+          "complete": true
+        },
+        {
+          "src": "assets/isometric-dashboard.png",
+          "w": 1536,
+          "h": 1024,
+          "complete": true
+        }
+      ],
+      "imageIssues": [],
+      "viewportIssues": [],
+      "smallText": [],
+      "activeTextSample": "FST UNIVERSITAS JAMBI Optimasi Penjadwalan Praktikum 04 BAB I Pendahuluan Praktikum FST tidak selalu mengikuti pola kuliah reguler karena durasi, ruang, dan ketersediaan asisten berbeda antar program studi. Penjadwalan perlu diperlakukan sebagai persoalan opti",
+      "screenshot": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-final\\slide-04.png"
+    },
+    {
+      "slide": 5,
+      "title": "Masalah Penjadwalan Praktikum",
+      "chapter": "Pendahuluan",
+      "bodyHasBrokenPreview": false,
+      "conflictTheory": true,
+      "greedy": false,
+      "imgs": [
+        {
+          "src": "assets/logo-unja.png",
+          "w": 960,
+          "h": 964,
+          "complete": true
+        }
+      ],
+      "imageIssues": [],
+      "viewportIssues": [],
+      "smallText": [],
+      "activeTextSample": "FST UNIVERSITAS JAMBI Optimasi Penjadwalan Praktikum 05 LATAR BELAKANG Masalah Penjadwalan Praktikum Masalah penjadwalan praktikum muncul dari keterbatasan ruang laboratorium, slot waktu, kapasitas, kelompok kelas, asisten, dan jadwal mata kuliah tatap muka/te",
+      "screenshot": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-final\\slide-05.png"
+    },
+    {
+      "slide": 6,
+      "title": "Fokus Masalah Penelitian",
+      "chapter": "Pendahuluan",
+      "bodyHasBrokenPreview": false,
+      "conflictTheory": true,
+      "greedy": false,
+      "imgs": [
+        {
+          "src": "assets/logo-unja.png",
+          "w": 960,
+          "h": 964,
+          "complete": true
+        }
+      ],
+      "imageIssues": [],
+      "viewportIssues": [],
+      "smallText": [],
+      "activeTextSample": "FST UNIVERSITAS JAMBI Optimasi Penjadwalan Praktikum 06 RUMUSAN MASALAH Fokus Masalah Penelitian Rumusan masalah dibatasi pada dua fokus utama: bagaimana GA berbasis Fuzzy Logic menyusun jadwal praktikum minim konflik dan bagaimana kontribusi fuzzy dibaca dari",
+      "screenshot": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-final\\slide-06.png"
+    },
+    {
+      "slide": 7,
+      "title": "Arah Penelitian",
+      "chapter": "Pendahuluan",
+      "bodyHasBrokenPreview": false,
+      "conflictTheory": true,
+      "greedy": false,
+      "imgs": [
+        {
+          "src": "assets/logo-unja.png",
+          "w": 960,
+          "h": 964,
+          "complete": true
+        }
+      ],
+      "imageIssues": [],
+      "viewportIssues": [],
+      "smallText": [],
+      "activeTextSample": "FST UNIVERSITAS JAMBI Optimasi Penjadwalan Praktikum 07 TUJUAN DAN MANFAAT Arah Penelitian Arah penelitian menyeimbangkan tujuan praktis dan akademik: sistem harus membantu pengelola laboratorium sekaligus menunjukkan penerapan algoritma optimasi pada penjadwa",
+      "screenshot": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-final\\slide-07.png"
+    },
+    {
+      "slide": 8,
+      "title": "Kontribusi Penelitian",
+      "chapter": "Pendahuluan",
+      "bodyHasBrokenPreview": false,
+      "conflictTheory": false,
+      "greedy": false,
+      "imgs": [
+        {
+          "src": "assets/logo-unja.png",
+          "w": 960,
+          "h": 964,
+          "complete": true
+        }
+      ],
+      "imageIssues": [],
+      "viewportIssues": [],
+      "smallText": [],
+      "activeTextSample": "FST UNIVERSITAS JAMBI Optimasi Penjadwalan Praktikum 08 KONTRIBUSI Kontribusi Penelitian Skripsi ini tidak hanya menerapkan algoritma, tetapi juga membangun representasi jadwal, mekanisme adaptasi parameter, dan antarmuka evaluasi. Keempat kontribusi tersebut ",
+      "screenshot": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-final\\slide-08.png"
+    },
+    {
+      "slide": 9,
+      "title": "BAB II - Tinjauan Pustaka",
+      "chapter": "Tinjauan",
+      "bodyHasBrokenPreview": false,
+      "conflictTheory": false,
+      "greedy": false,
+      "imgs": [
+        {
+          "src": "assets/logo-unja.png",
+          "w": 960,
+          "h": 964,
+          "complete": true
+        },
+        {
+          "src": "assets/reference-html-images/ref-slide-06-img-11.webp",
+          "w": 1123,
+          "h": 760,
+          "complete": true
+        }
+      ],
+      "imageIssues": [],
+      "viewportIssues": [],
+      "smallText": [],
+      "activeTextSample": "FST UNIVERSITAS JAMBI Optimasi Penjadwalan Praktikum 09 BAB II BAB II - Tinjauan Pustaka Konsep penjadwalan, Algoritma Genetika, dan Fuzzy Logic langsung dipakai sebagai dasar sistem. Teori tersebut menjadi landasan representasi solusi, operator evolusi, dan c",
+      "screenshot": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-final\\slide-09.png"
+    },
+    {
+      "slide": 10,
+      "title": "Tinjauan Pustaka dan Algoritma Penjadwalan",
+      "chapter": "Tinjauan",
+      "bodyHasBrokenPreview": false,
+      "conflictTheory": false,
+      "greedy": false,
+      "imgs": [
+        {
+          "src": "assets/logo-unja.png",
+          "w": 960,
+          "h": 964,
+          "complete": true
+        },
+        {
+          "src": "assets/reference-html-images/ref-slide-01-img-03.webp",
+          "w": 1092,
+          "h": 760,
+          "complete": true
+        }
+      ],
+      "imageIssues": [],
+      "viewportIssues": [],
+      "smallText": [],
+      "activeTextSample": "FST UNIVERSITAS JAMBI Optimasi Penjadwalan Praktikum 10 BAB II - KONSEP DASAR Tinjauan Pustaka dan Algoritma Penjadwalan Penjadwalan adalah proses mengalokasikan sumber daya terbatas dalam waktu tertentu agar aktivitas berjalan teratur. Dalam penelitian ini, k",
+      "screenshot": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-final\\slide-10.png"
+    },
+    {
+      "slide": 11,
+      "title": "Algoritma Genetika",
+      "chapter": "Tinjauan",
+      "bodyHasBrokenPreview": false,
+      "conflictTheory": false,
+      "greedy": false,
+      "imgs": [
+        {
+          "src": "assets/logo-unja.png",
+          "w": 960,
+          "h": 964,
+          "complete": true
+        }
+      ],
+      "imageIssues": [],
+      "viewportIssues": [],
+      "smallText": [],
+      "activeTextSample": "FST UNIVERSITAS JAMBI Optimasi Penjadwalan Praktikum 11 GENETIC ALGORITHM Algoritma Genetika Algoritma Genetika adalah metode komputasi evolusioner yang meniru seleksi alam melalui populasi, fitness, seleksi, crossover, dan mutasi. Metode ini relevan untuk pen",
+      "screenshot": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-final\\slide-11.png"
+    },
+    {
+      "slide": 12,
+      "title": "Kromosom",
+      "chapter": "Tinjauan",
+      "bodyHasBrokenPreview": false,
+      "conflictTheory": false,
+      "greedy": false,
+      "imgs": [
+        {
+          "src": "assets/logo-unja.png",
+          "w": 960,
+          "h": 964,
+          "complete": true
+        },
+        {
+          "src": "assets/reference-html-images/ref-slide-28-img-36.webp",
+          "w": 1124,
+          "h": 760,
+          "complete": true
+        }
+      ],
+      "imageIssues": [],
+      "viewportIssues": [],
+      "smallText": [],
+      "activeTextSample": "FST UNIVERSITAS JAMBI Optimasi Penjadwalan Praktikum 12 REPRESENTASI SOLUSI Kromosom Kromosom merepresentasikan satu kandidat jadwal lengkap yang terdiri atas rangkaian gen. Pada penelitian ini, setiap gen menyimpan satu sesi praktikum beserta atribut mata pra",
+      "screenshot": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-final\\slide-12.png"
+    },
+    {
+      "slide": 13,
+      "title": "Pembangkitan Kromosom",
+      "chapter": "Tinjauan",
+      "bodyHasBrokenPreview": false,
+      "conflictTheory": true,
+      "greedy": false,
+      "imgs": [
+        {
+          "src": "assets/logo-unja.png",
+          "w": 960,
+          "h": 964,
+          "complete": true
+        }
+      ],
+      "imageIssues": [],
+      "viewportIssues": [],
+      "smallText": [],
+      "activeTextSample": "FST UNIVERSITAS JAMBI Optimasi Penjadwalan Praktikum 13 TAHAP AWAL GA Pembangkitan Kromosom Pembangkitan kromosom membentuk populasi awal dari data praktikum, ruangan, slot waktu, dan asisten yang tersedia. Tahap ini dibuat acak tetapi tetap mengikuti batasan ",
+      "screenshot": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-final\\slide-13.png"
+    },
+    {
+      "slide": 14,
+      "title": "Fitness Function",
+      "chapter": "Tinjauan",
+      "bodyHasBrokenPreview": false,
+      "conflictTheory": true,
+      "greedy": false,
+      "imgs": [
+        {
+          "src": "assets/logo-unja.png",
+          "w": 960,
+          "h": 964,
+          "complete": true
+        }
+      ],
+      "imageIssues": [],
+      "viewportIssues": [],
+      "smallText": [],
+      "activeTextSample": "FST UNIVERSITAS JAMBI Optimasi Penjadwalan Praktikum 14 EVALUASI SOLUSI Fitness Function Fitness Function mengubah kualitas jadwal menjadi nilai kuantitatif berdasarkan jumlah penalty konflik. Pelanggaran mencakup ruang, kelompok, asisten, serta konflik ruang ",
+      "screenshot": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-final\\slide-14.png"
+    },
+    {
+      "slide": 15,
+      "title": "Crossover",
+      "chapter": "Tinjauan",
+      "bodyHasBrokenPreview": false,
+      "conflictTheory": false,
+      "greedy": false,
+      "imgs": [
+        {
+          "src": "assets/logo-unja.png",
+          "w": 960,
+          "h": 964,
+          "complete": true
+        }
+      ],
+      "imageIssues": [],
+      "viewportIssues": [],
+      "smallText": [],
+      "activeTextSample": "FST UNIVERSITAS JAMBI Optimasi Penjadwalan Praktikum 15 OPERATOR GA Crossover Crossover adalah operator rekombinasi yang menukar sebagian struktur dua parent untuk menghasilkan offspring. Dalam penjadwalan praktikum, operator ini harus menjaga struktur gen aga",
+      "screenshot": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-final\\slide-15.png"
+    },
+    {
+      "slide": 16,
+      "title": "Mutation",
+      "chapter": "Tinjauan",
+      "bodyHasBrokenPreview": false,
+      "conflictTheory": false,
+      "greedy": false,
+      "imgs": [
+        {
+          "src": "assets/logo-unja.png",
+          "w": 960,
+          "h": 964,
+          "complete": true
+        }
+      ],
+      "imageIssues": [],
+      "viewportIssues": [],
+      "smallText": [],
+      "activeTextSample": "FST UNIVERSITAS JAMBI Optimasi Penjadwalan Praktikum 16 OPERATOR GA Mutation Mutasi memberi perubahan kecil pada gen agar populasi tidak cepat homogen dan tidak terjebak pada solusi lokal. Pada konteks jadwal, perubahan dapat berupa ruang, hari, atau waktu yan",
+      "screenshot": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-final\\slide-16.png"
+    },
+    {
+      "slide": 17,
+      "title": "Penjadwalan Akademik",
+      "chapter": "Tinjauan",
+      "bodyHasBrokenPreview": false,
+      "conflictTheory": false,
+      "greedy": false,
+      "imgs": [
+        {
+          "src": "assets/logo-unja.png",
+          "w": 960,
+          "h": 964,
+          "complete": true
+        }
+      ],
+      "imageIssues": [],
+      "viewportIssues": [],
+      "smallText": [],
+      "activeTextSample": "FST UNIVERSITAS JAMBI Optimasi Penjadwalan Praktikum 17 KONTEKS AKADEMIK Penjadwalan Akademik Penjadwalan akademik tidak hanya mengalokasikan waktu, tetapi juga mengatur ruang, kapasitas, dosen atau asisten, serta kebutuhan layanan pendidikan. Pendekatan berba",
+      "screenshot": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-final\\slide-17.png"
+    },
+    {
+      "slide": 18,
+      "title": "Penerapan AG dalam Penjadwalan",
+      "chapter": "Tinjauan",
+      "bodyHasBrokenPreview": false,
+      "conflictTheory": false,
+      "greedy": false,
+      "imgs": [
+        {
+          "src": "assets/logo-unja.png",
+          "w": 960,
+          "h": 964,
+          "complete": true
+        }
+      ],
+      "imageIssues": [],
+      "viewportIssues": [],
+      "smallText": [],
+      "activeTextSample": "FST UNIVERSITAS JAMBI Optimasi Penjadwalan Praktikum 18 STUDI TERKAIT Penerapan AG dalam Penjadwalan Penerapan AG dalam penjadwalan menunjukkan bahwa mekanisme evolusioner dapat mengevaluasi banyak kombinasi jadwal dan memperbaiki solusi secara bertahap. Studi",
+      "screenshot": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-final\\slide-18.png"
+    },
+    {
+      "slide": 19,
+      "title": "Penjadwalan Laboratorium",
+      "chapter": "Tinjauan",
+      "bodyHasBrokenPreview": false,
+      "conflictTheory": false,
+      "greedy": false,
+      "imgs": [
+        {
+          "src": "assets/logo-unja.png",
+          "w": 960,
+          "h": 964,
+          "complete": true
+        }
+      ],
+      "imageIssues": [],
+      "viewportIssues": [],
+      "smallText": [],
+      "activeTextSample": "FST UNIVERSITAS JAMBI Optimasi Penjadwalan Praktikum 19 KONTEKS LABORATORIUM Penjadwalan Laboratorium Penjadwalan laboratorium memiliki tingkat kesulitan lebih tinggi karena ruangan, alat, kapasitas, durasi sesi, dan ketersediaan asisten tidak selalu seragam. ",
+      "screenshot": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-final\\slide-19.png"
+    },
+    {
+      "slide": 20,
+      "title": "Fuzzy Logic dan Variabel Linguistik",
+      "chapter": "Tinjauan",
+      "bodyHasBrokenPreview": false,
+      "conflictTheory": false,
+      "greedy": false,
+      "imgs": [
+        {
+          "src": "assets/logo-unja.png",
+          "w": 960,
+          "h": 964,
+          "complete": true
+        }
+      ],
+      "imageIssues": [],
+      "viewportIssues": [],
+      "smallText": [],
+      "activeTextSample": "FST UNIVERSITAS JAMBI Optimasi Penjadwalan Praktikum 20 FUZZY LOGIC Fuzzy Logic dan Variabel Linguistik Fuzzy Logic memetakan nilai crisp menjadi derajat keanggotaan sehingga kondisi seperti rendah, sedang, dan tinggi dapat diproses melalui aturan linguistik. ",
+      "screenshot": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-final\\slide-20.png"
+    },
+    {
+      "slide": 21,
+      "title": "Optimasi Algoritma Menggunakan Fuzzy Logic",
+      "chapter": "Tinjauan",
+      "bodyHasBrokenPreview": false,
+      "conflictTheory": false,
+      "greedy": false,
+      "imgs": [
+        {
+          "src": "assets/logo-unja.png",
+          "w": 960,
+          "h": 964,
+          "complete": true
+        }
+      ],
+      "imageIssues": [],
+      "viewportIssues": [],
+      "smallText": [],
+      "activeTextSample": "FST UNIVERSITAS JAMBI Optimasi Penjadwalan Praktikum 21 HYBRID APPROACH Optimasi Algoritma Menggunakan Fuzzy Logic Fuzzy Logic membuat GA tidak sepenuhnya bergantung pada parameter statis. Nilai crossover rate dapat membaca diversity dan stagnansi, sedangkan m",
+      "screenshot": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-final\\slide-21.png"
+    },
+    {
+      "slide": 22,
+      "title": "Evaluasi Kinerja Hybrid Genetic Algorithm",
+      "chapter": "Tinjauan",
+      "bodyHasBrokenPreview": false,
+      "conflictTheory": false,
+      "greedy": false,
+      "imgs": [
+        {
+          "src": "assets/logo-unja.png",
+          "w": 960,
+          "h": 964,
+          "complete": true
+        }
+      ],
+      "imageIssues": [],
+      "viewportIssues": [],
+      "smallText": [],
+      "activeTextSample": "FST UNIVERSITAS JAMBI Optimasi Penjadwalan Praktikum 22 EVALUASI HGA Evaluasi Kinerja Hybrid Genetic Algorithm Evaluasi HGA perlu dibaca melalui dua sisi: kualitas solusi akhir dan dinamika proses pencarian. Hasil adaptif tidak otomatis berarti unggul pada sem",
+      "screenshot": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-final\\slide-22.png"
+    },
+    {
+      "slide": 23,
+      "title": "Kerangka Pemikiran",
+      "chapter": "Tinjauan",
+      "bodyHasBrokenPreview": false,
+      "conflictTheory": false,
+      "greedy": false,
+      "imgs": [
+        {
+          "src": "assets/logo-unja.png",
+          "w": 960,
+          "h": 964,
+          "complete": true
+        }
+      ],
+      "imageIssues": [],
+      "viewportIssues": [],
+      "smallText": [],
+      "activeTextSample": "FST UNIVERSITAS JAMBI Optimasi Penjadwalan Praktikum 23 SINTESIS Kerangka Pemikiran Masalah praktikum dihubungkan dengan representasi gen, pembentukan populasi, evaluasi konflik, dan pengendalian parameter adaptif. Data administratif diubah menjadi kandidat ja",
+      "screenshot": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-final\\slide-23.png"
+    },
+    {
+      "slide": 24,
+      "title": "Penelitian Terdahulu",
+      "chapter": "Tinjauan",
+      "bodyHasBrokenPreview": false,
+      "conflictTheory": false,
+      "greedy": false,
+      "imgs": [
+        {
+          "src": "assets/logo-unja.png",
+          "w": 960,
+          "h": 964,
+          "complete": true
+        }
+      ],
+      "imageIssues": [],
+      "viewportIssues": [],
+      "smallText": [],
+      "activeTextSample": "FST UNIVERSITAS JAMBI Optimasi Penjadwalan Praktikum 24 RESEARCH GAP Penelitian Terdahulu Penelitian terdahulu menunjukkan bahwa AG dan pendekatan fuzzy dapat digunakan pada penjadwalan kompleks, tetapi konteks FST memerlukan model data dan constraint lokal. G",
+      "screenshot": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-final\\slide-24.png"
+    },
+    {
+      "slide": 25,
+      "title": "BAB III - Metodologi",
+      "chapter": "Metodologi",
+      "bodyHasBrokenPreview": false,
+      "conflictTheory": false,
+      "greedy": false,
+      "imgs": [
+        {
+          "src": "assets/logo-unja.png",
+          "w": 960,
+          "h": 964,
+          "complete": true
+        },
+        {
+          "src": "assets/reference-html-images/ref-slide-36-img-47.webp",
+          "w": 1123,
+          "h": 760,
+          "complete": true
+        }
+      ],
+      "imageIssues": [],
+      "viewportIssues": [],
+      "smallText": [],
+      "activeTextSample": "FST UNIVERSITAS JAMBI Optimasi Penjadwalan Praktikum 25 BAB III BAB III - Metodologi Data praktikum diubah menjadi struktur genetik, dievaluasi dengan fitness, lalu diproses oleh operator GA dan controller fuzzy. Alur ini menjadi jembatan dari data akademik ke",
+      "screenshot": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-final\\slide-25.png"
+    },
+    {
+      "slide": 26,
+      "title": "Metodologi Penelitian dan Pengumpulan Data",
+      "chapter": "Metodologi",
+      "bodyHasBrokenPreview": false,
+      "conflictTheory": false,
+      "greedy": false,
+      "imgs": [
+        {
+          "src": "assets/logo-unja.png",
+          "w": 960,
+          "h": 964,
+          "complete": true
+        }
+      ],
+      "imageIssues": [],
+      "viewportIssues": [],
+      "smallText": [],
+      "activeTextSample": "FST UNIVERSITAS JAMBI Optimasi Penjadwalan Praktikum 26 BAB III - TAHAPAN Metodologi Penelitian dan Pengumpulan Data Metodologi penelitian disusun sebagai alur data-ke-optimasi: data dikumpulkan, direpresentasikan sebagai gen dan kromosom, lalu diproses melalu",
+      "screenshot": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-final\\slide-26.png"
+    },
+    {
+      "slide": 27,
+      "title": "Pipeline Sistem Optimasi",
+      "chapter": "Metodologi",
+      "bodyHasBrokenPreview": false,
+      "conflictTheory": false,
+      "greedy": false,
+      "imgs": [
+        {
+          "src": "assets/logo-unja.png",
+          "w": 960,
+          "h": 964,
+          "complete": true
+        }
+      ],
+      "imageIssues": [],
+      "viewportIssues": [],
+      "smallText": [],
+      "activeTextSample": "FST UNIVERSITAS JAMBI Optimasi Penjadwalan Praktikum 27 SYSTEM PIPELINE Pipeline Sistem Optimasi Aliran teknis bergerak dari data praktikum sampai laporan GUI. Seeder, fitness evaluation, operator GA, fuzzy controller, dan final schedule bekerja sebagai satu p",
+      "screenshot": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-final\\slide-27.png"
+    },
+    {
+      "slide": 28,
+      "title": "Repair dan Post-Processing Konflik",
+      "chapter": "Metodologi",
+      "bodyHasBrokenPreview": false,
+      "conflictTheory": true,
+      "greedy": false,
+      "imgs": [
+        {
+          "src": "assets/logo-unja.png",
+          "w": 960,
+          "h": 964,
+          "complete": true
+        },
+        {
+          "src": "assets/reference-html-images/ref-slide-02-img-05.webp",
+          "w": 1108,
+          "h": 760,
+          "complete": true
+        }
+      ],
+      "imageIssues": [],
+      "viewportIssues": [],
+      "smallText": [],
+      "activeTextSample": "FST UNIVERSITAS JAMBI Optimasi Penjadwalan Praktikum 28 REPAIR LOGIC Repair dan Post-Processing Konflik Repair dan post-processing digunakan untuk menjaga kandidat jadwal tetap layak setelah operator evolusi menghasilkan perubahan. Tahap ini penting karena cro",
+      "screenshot": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-final\\slide-28.png"
+    },
+    {
+      "slide": 29,
+      "title": "Representasi Jadwal sebagai Kromosom",
+      "chapter": "Metodologi",
+      "bodyHasBrokenPreview": false,
+      "conflictTheory": true,
+      "greedy": false,
+      "imgs": [
+        {
+          "src": "assets/logo-unja.png",
+          "w": 960,
+          "h": 964,
+          "complete": true
+        }
+      ],
+      "imageIssues": [],
+      "viewportIssues": [],
+      "smallText": [],
+      "activeTextSample": "FST UNIVERSITAS JAMBI Optimasi Penjadwalan Praktikum 29 MODEL DATA Representasi Jadwal sebagai Kromosom Representasi jadwal sebagai kromosom memastikan setiap sesi praktikum dapat diproses sebagai struktur data tanpa kehilangan makna operasionalnya. Model ini ",
+      "screenshot": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-final\\slide-29.png"
+    },
+    {
+      "slide": 30,
+      "title": "Inisialisasi Populasi Awal",
+      "chapter": "Metodologi",
+      "bodyHasBrokenPreview": false,
+      "conflictTheory": false,
+      "greedy": false,
+      "imgs": [
+        {
+          "src": "assets/logo-unja.png",
+          "w": 960,
+          "h": 964,
+          "complete": true
+        }
+      ],
+      "imageIssues": [],
+      "viewportIssues": [],
+      "smallText": [],
+      "activeTextSample": "FST UNIVERSITAS JAMBI Optimasi Penjadwalan Praktikum 30 INITIAL POPULATION Inisialisasi Populasi Awal Inisialisasi populasi awal menentukan titik mulai pencarian solusi. Populasi perlu cukup feasible agar dapat dievaluasi, tetapi juga cukup beragam agar proses",
+      "screenshot": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-final\\slide-30.png"
+    },
+    {
+      "slide": 31,
+      "title": "Penalty sebagai Dasar Kualitas Jadwal",
+      "chapter": "Metodologi",
+      "bodyHasBrokenPreview": false,
+      "conflictTheory": true,
+      "greedy": false,
+      "imgs": [
+        {
+          "src": "assets/logo-unja.png",
+          "w": 960,
+          "h": 964,
+          "complete": true
+        }
+      ],
+      "imageIssues": [],
+      "viewportIssues": [],
+      "smallText": [],
+      "activeTextSample": "FST UNIVERSITAS JAMBI Optimasi Penjadwalan Praktikum 31 PENALTY Penalty sebagai Dasar Kualitas Jadwal Penalty menjadi dasar untuk mengukur seberapa jauh sebuah jadwal melanggar constraint utama. Konflik ruang, kelompok, asisten, dan benturan praktikum dengan m",
+      "screenshot": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-final\\slide-31.png"
+    },
+    {
+      "slide": 32,
+      "title": "Rekombinasi Jadwal antar Parent",
+      "chapter": "Metodologi",
+      "bodyHasBrokenPreview": false,
+      "conflictTheory": false,
+      "greedy": false,
+      "imgs": [
+        {
+          "src": "assets/logo-unja.png",
+          "w": 960,
+          "h": 964,
+          "complete": true
+        }
+      ],
+      "imageIssues": [],
+      "viewportIssues": [],
+      "smallText": [],
+      "activeTextSample": "FST UNIVERSITAS JAMBI Optimasi Penjadwalan Praktikum 32 CROSSOVER Rekombinasi Jadwal antar Parent Rekombinasi antar parent menghasilkan offspring yang membawa pola jadwal dari dua kandidat solusi. Setelah crossover, repair diperlukan agar struktur jadwal tetap",
+      "screenshot": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-final\\slide-32.png"
+    },
+    {
+      "slide": 33,
+      "title": "Menjaga Keragaman Populasi",
+      "chapter": "Metodologi",
+      "bodyHasBrokenPreview": false,
+      "conflictTheory": false,
+      "greedy": false,
+      "imgs": [
+        {
+          "src": "assets/logo-unja.png",
+          "w": 960,
+          "h": 964,
+          "complete": true
+        }
+      ],
+      "imageIssues": [],
+      "viewportIssues": [],
+      "smallText": [],
+      "activeTextSample": "FST UNIVERSITAS JAMBI Optimasi Penjadwalan Praktikum 33 DIVERSITY Menjaga Keragaman Populasi Keragaman populasi menjaga pencarian agar tidak terkunci pada satu area solusi. Mutation rate adaptif membantu membuka variasi baru ketika fitness mulai stagnan atau i",
+      "screenshot": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-final\\slide-33.png"
+    },
+    {
+      "slide": 34,
+      "title": "Controller Adaptif pada Parameter GA",
+      "chapter": "Metodologi",
+      "bodyHasBrokenPreview": false,
+      "conflictTheory": false,
+      "greedy": false,
+      "imgs": [
+        {
+          "src": "assets/logo-unja.png",
+          "w": 960,
+          "h": 964,
+          "complete": true
+        },
+        {
+          "src": "assets/isometric-fuzzy-controller.png",
+          "w": 1536,
+          "h": 1024,
+          "complete": true
+        }
+      ],
+      "imageIssues": [],
+      "viewportIssues": [],
+      "smallText": [],
+      "activeTextSample": "FST UNIVERSITAS JAMBI Optimasi Penjadwalan Praktikum 34 ADAPTIVE CONTROLLER Controller Adaptif pada Parameter GA Fuzzy pada crossover mendeteksi diversity dan stagnansi hasil crossover untuk menyesuaikan crossover rate. Keberagaman populasi dipakai sebagai sin",
+      "screenshot": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-final\\slide-34.png"
+    },
+    {
+      "slide": 35,
+      "title": "Fuzzy untuk Mengatur Cr dan Mr",
+      "chapter": "Metodologi",
+      "bodyHasBrokenPreview": false,
+      "conflictTheory": false,
+      "greedy": false,
+      "imgs": [
+        {
+          "src": "assets/logo-unja.png",
+          "w": 960,
+          "h": 964,
+          "complete": true
+        }
+      ],
+      "imageIssues": [],
+      "viewportIssues": [],
+      "smallText": [],
+      "activeTextSample": "FST UNIVERSITAS JAMBI Optimasi Penjadwalan Praktikum 35 PARAMETER ADAPTIF Fuzzy untuk Mengatur Cr dan Mr Cr mengatur intensitas pertukaran genetik antar parent dengan membaca diversity dan stagnansi hasil crossover. Mr berbeda karena memakai pergerakan skor fi",
+      "screenshot": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-final\\slide-35.png"
+    },
+    {
+      "slide": 36,
+      "title": "Evaluasi dan Implementasi GUI",
+      "chapter": "Metodologi",
+      "bodyHasBrokenPreview": false,
+      "conflictTheory": false,
+      "greedy": false,
+      "imgs": [
+        {
+          "src": "assets/logo-unja.png",
+          "w": 960,
+          "h": 964,
+          "complete": true
+        },
+        {
+          "src": "assets/gui-data-crop.jpg",
+          "w": 1049,
+          "h": 628,
+          "complete": true
+        }
+      ],
+      "imageIssues": [],
+      "viewportIssues": [],
+      "smallText": [],
+      "activeTextSample": "FST UNIVERSITAS JAMBI Optimasi Penjadwalan Praktikum 36 PROTOTYPE Evaluasi dan Implementasi GUI Evaluasi dan GUI membuat proses optimasi dapat dikonfigurasi, dipantau, dan diperiksa oleh pengguna. Dengan antarmuka ini, sistem tidak hanya berjalan sebagai skrip",
+      "screenshot": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-final\\slide-36.png"
+    },
+    {
+      "slide": 37,
+      "title": "BAB IV - Hasil dan Pembahasan",
+      "chapter": "Hasil",
+      "bodyHasBrokenPreview": false,
+      "conflictTheory": false,
+      "greedy": false,
+      "imgs": [
+        {
+          "src": "assets/logo-unja.png",
+          "w": 960,
+          "h": 964,
+          "complete": true
+        },
+        {
+          "src": "assets/reference-html-images/ref-slide-34-img-43.webp",
+          "w": 1111,
+          "h": 760,
+          "complete": true
+        }
+      ],
+      "imageIssues": [],
+      "viewportIssues": [],
+      "smallText": [],
+      "activeTextSample": "FST UNIVERSITAS JAMBI Optimasi Penjadwalan Praktikum 37 BAB IV BAB IV - Hasil dan Pembahasan Skala dataset, implementasi sistem, dan perbandingan performa Classic GA dengan Fuzzy GA menjadi dasar pembacaan hasil. Fokus evaluasi diarahkan pada kualitas jadwal a",
+      "screenshot": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-final\\slide-37.png"
+    },
+    {
+      "slide": 38,
+      "title": "Hasil dan Rekap Data Praktikum FST",
+      "chapter": "Hasil",
+      "bodyHasBrokenPreview": false,
+      "conflictTheory": false,
+      "greedy": false,
+      "imgs": [
+        {
+          "src": "assets/logo-unja.png",
+          "w": 960,
+          "h": 964,
+          "complete": true
+        }
+      ],
+      "imageIssues": [],
+      "viewportIssues": [],
+      "smallText": [],
+      "activeTextSample": "FST UNIVERSITAS JAMBI Optimasi Penjadwalan Praktikum 38 BAB IV - DATASET Hasil dan Rekap Data Praktikum FST Rekap data praktikum FST menunjukkan ruang pencarian yang besar karena banyak program studi, mata praktikum, kelas, peserta, ruangan, dan slot asisten h",
+      "screenshot": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-final\\slide-38.png"
+    },
+    {
+      "slide": 39,
+      "title": "Implementasi Program dan Parameter Adaptif",
+      "chapter": "Hasil",
+      "bodyHasBrokenPreview": false,
+      "conflictTheory": false,
+      "greedy": false,
+      "imgs": [
+        {
+          "src": "assets/logo-unja.png",
+          "w": 960,
+          "h": 964,
+          "complete": true
+        },
+        {
+          "src": "assets/gui-fitness-crop.jpg",
+          "w": 715,
+          "h": 495,
+          "complete": true
+        }
+      ],
+      "imageIssues": [],
+      "viewportIssues": [],
+      "smallText": [],
+      "activeTextSample": "FST UNIVERSITAS JAMBI Optimasi Penjadwalan Praktikum 39 IMPLEMENTASI Implementasi Program dan Parameter Adaptif Implementasi program memisahkan seeder, fitness function, adaptive crossover, dan adaptive mutation agar proses evolusi mudah diuji per komponen. St",
+      "screenshot": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-final\\slide-39.png"
+    },
+    {
+      "slide": 40,
+      "title": "Classic GA vs Fuzzy GA",
+      "chapter": "Hasil",
+      "bodyHasBrokenPreview": false,
+      "conflictTheory": false,
+      "greedy": false,
+      "imgs": [
+        {
+          "src": "assets/logo-unja.png",
+          "w": 960,
+          "h": 964,
+          "complete": true
+        }
+      ],
+      "imageIssues": [],
+      "viewportIssues": [],
+      "smallText": [],
+      "activeTextSample": "FST UNIVERSITAS JAMBI Optimasi Penjadwalan Praktikum 40 EVALUASI Classic GA vs Fuzzy GA Perbandingan Classic GA dan Fuzzy GA digunakan sebagai baseline pembacaan performa sistem. Hasil menunjukkan Classic GA lebih kuat pada beberapa metrik akhir, sedangkan Fuz",
+      "screenshot": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-final\\slide-40.png"
+    },
+    {
+      "slide": 41,
+      "title": "Hasil Jadwal, Implikasi, dan GUI",
+      "chapter": "Hasil",
+      "bodyHasBrokenPreview": false,
+      "conflictTheory": false,
+      "greedy": false,
+      "imgs": [
+        {
+          "src": "assets/logo-unja.png",
+          "w": 960,
+          "h": 964,
+          "complete": true
+        },
+        {
+          "src": "assets/gui-schedule-crop.jpg",
+          "w": 810,
+          "h": 613,
+          "complete": true
+        }
+      ],
+      "imageIssues": [],
+      "viewportIssues": [],
+      "smallText": [],
+      "activeTextSample": "FST UNIVERSITAS JAMBI Optimasi Penjadwalan Praktikum 41 IMPLIKASI Hasil Jadwal, Implikasi, dan GUI Evaluasi dan GUI membuat proses optimasi dapat dikonfigurasi, dipantau, dan diperiksa oleh pengguna. Dengan antarmuka ini, sistem tidak hanya berjalan sebagai sk",
+      "screenshot": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-final\\slide-41.png"
+    },
+    {
+      "slide": 42,
+      "title": "BAB V - Penutup",
+      "chapter": "Penutup",
+      "bodyHasBrokenPreview": false,
+      "conflictTheory": false,
+      "greedy": false,
+      "imgs": [
+        {
+          "src": "assets/logo-unja.png",
+          "w": 960,
+          "h": 964,
+          "complete": true
+        },
+        {
+          "src": "assets/reference-html-images/ref-slide-02-img-05.webp",
+          "w": 1108,
+          "h": 760,
+          "complete": true
+        }
+      ],
+      "imageIssues": [],
+      "viewportIssues": [],
+      "smallText": [],
+      "activeTextSample": "FST UNIVERSITAS JAMBI Optimasi Penjadwalan Praktikum 42 BAB V BAB V - Penutup Temuan utama menunjukkan sistem berhasil berjalan sebagai optimasi penjadwalan praktikum dengan controller adaptif. Fuzzy Logic berperan mengatur parameter, bukan sebagai klaim unggu",
+      "screenshot": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-final\\slide-42.png"
+    },
+    {
+      "slide": 43,
+      "title": "Kesimpulan dan Saran",
+      "chapter": "Penutup",
+      "bodyHasBrokenPreview": false,
+      "conflictTheory": false,
+      "greedy": false,
+      "imgs": [
+        {
+          "src": "assets/logo-unja.png",
+          "w": 960,
+          "h": 964,
+          "complete": true
+        }
+      ],
+      "imageIssues": [],
+      "viewportIssues": [],
+      "smallText": [],
+      "activeTextSample": "FST UNIVERSITAS JAMBI Optimasi Penjadwalan Praktikum 43 BAB V Kesimpulan dan Saran Sistem penjadwalan praktikum berbasis GA berhasil dibangun dan diuji pada data FST. Fuzzy Logic diposisikan sebagai controller adaptif yang membantu dinamika pencarian, bukan se",
+      "screenshot": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-final\\slide-43.png"
+    },
+    {
+      "slide": 44,
+      "title": "Kesimpulan Utama dan Saran Pengembangan",
+      "chapter": "Penutup",
+      "bodyHasBrokenPreview": false,
+      "conflictTheory": true,
+      "greedy": true,
+      "imgs": [
+        {
+          "src": "assets/logo-unja.png",
+          "w": 960,
+          "h": 964,
+          "complete": true
+        }
+      ],
+      "imageIssues": [],
+      "viewportIssues": [],
+      "smallText": [],
+      "activeTextSample": "FST UNIVERSITAS JAMBI Optimasi Penjadwalan Praktikum 44 KESIMPULAN Kesimpulan Utama dan Saran Pengembangan Representasi gen, fitness, penalty, dan fuzzy controller sudah bekerja dalam satu sistem penjadwalan. Pengembangan berikutnya diarahkan pada Greedy post-",
+      "screenshot": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-final\\slide-44.png"
+    },
+    {
+      "slide": 45,
+      "title": "Terima Kasih",
+      "chapter": "Penutup",
+      "bodyHasBrokenPreview": false,
+      "conflictTheory": false,
+      "greedy": false,
+      "imgs": [
+        {
+          "src": "assets/logo-unja.png",
+          "w": 960,
+          "h": 964,
+          "complete": true
+        },
+        {
+          "src": "assets/reference-html-images/ref-slide-02-img-05.webp",
+          "w": 1108,
+          "h": 760,
+          "complete": true
+        }
+      ],
+      "imageIssues": [],
+      "viewportIssues": [],
+      "smallText": [],
+      "activeTextSample": "FST UNIVERSITAS JAMBI Optimasi Penjadwalan Praktikum 45 Q&A Terima Kasih Optimasi Algoritma Genetika Menggunakan Fuzzy Logic pada Penjadwalan Praktikum Mukhtada Billah NST NIM F1E122037 - Sistem Informasi Skripsi - Algoritma Genetika dan Fuzzy Logic Fakultas S",
+      "screenshot": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-final\\slide-45.png"
+    }
+  ],
+  "modalReports": [
+    {
+      "slide": 14,
+      "selector": ".slide.active .subdesc",
+      "required": [
+        {
+          "term": "mata kuliah tatap muka/teori",
+          "ok": true
+        },
+        {
+          "term": "penalty",
+          "ok": true
+        }
+      ],
+      "textSample": "TINJAUAN - SLIDE 14 Fitness Function mengubah kualitas jadwal menjadi nilai kuantitatif berdasarka... × LOKASI TEKS 14 Fitness Function Paragraf/item yang diklik Fitness Function mengubah kualitas jadwal menjadi nilai kuantitatif berdasarkan jumlah penalty konflik. Pelanggaran mencakup ruang, kelompok, asisten, serta konflik ruang tatap muka saat mata praktikum berbenturan dengan mata kuliah tatap muka/teori; semakin s... KONTEKS SKRIPSI Dalam skripsi, konflik ruang tatap muka berarti jadwal mata praktikum bertabrakan dengan jadwal mata kuliah teori. Konflik ini dicatat sebagai pelanggaran dengan penalti menengah hingga tinggi karena mengganggu kelayakan jadwal. RUJUKAN APA (Triyono & Kusrini, 2024) (Pytel, 2025) HALAMAN PDF RUJUKAN SESUAI SLIDE INI (Triyono & Kusrini, 2024) Slide 14 · Hal. 20 Algoritma Genetika dalam Penjadwalan Mata Kuliah: Eksplorasi Metode Crossover, Mutasi, dan Seleksi Terbaik Halaman dipilih dari analisis teks PDF per slide. Kata kunci cocok: fitness, konflik, genetika, mutasi, crossover, algoritma, seleksi, yang (Pytel, 2025) Slide 14 · Hal. 4 Fuzzy logic appl",
+      "containsBrokenPreview": false,
+      "cardCount": 2,
+      "imgs": [
+        {
+          "src": "assets/reference-pdf-pages/triyono-kusrini-2024-slide-14-page-20.jpg",
+          "w": 828,
+          "h": 1170,
+          "complete": true
+        },
+        {
+          "src": "assets/reference-pdf-pages/pytel-2025-slide-14-page-04.jpg",
+          "w": 1024,
+          "h": 1346,
+          "complete": true
+        }
+      ],
+      "links": [
+        {
+          "href": "http://127.0.0.1:8000/assets/reference-pdfs/077%20-%20Algoritma%20Genetika%20dalam%20Penjadwalan%20Mata%20Kuliah%20Eksplorasi%20Metode%20Crossover%2C%20Mutasi%2C%20dan%20Seleksi%20Terbaik.pdf",
+          "target": "_blank"
+        },
+        {
+          "href": "http://127.0.0.1:8000/assets/reference-pdfs/056%20-%20Fuzzy%20logic%20applied%20to%20tunning%20mutation%20size%20in%20evolutionary%20algorithms.pdf",
+          "target": "_blank"
+        }
+      ],
+      "screenshot": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\modal-slide-14-final.png",
+      "clickOpens": null
+    },
+    {
+      "slide": 31,
+      "selector": ".slide.active .card:has-text(\"Konflik mata kuliah teori\")",
+      "required": [
+        {
+          "term": "mata kuliah tatap muka/teori",
+          "ok": true
+        },
+        {
+          "term": "menengah-tinggi",
+          "ok": true
+        }
+      ],
+      "textSample": "METODOLOGI - SLIDE 31 Konflik mata kuliah teori Praktikum yang berbenturan dengan mata kuliah tatap... × LOKASI TEKS 31 Penalty sebagai Dasar Kualitas Jadwal Paragraf/item yang diklik Konflik mata kuliah teori Praktikum yang berbenturan dengan mata kuliah tatap muka/teori diberi penalti menengah-tinggi. KONTEKS SKRIPSI Dalam skripsi, konflik ruang tatap muka berarti jadwal mata praktikum bertabrakan dengan jadwal mata kuliah teori. Konflik ini dicatat sebagai pelanggaran dengan penalti menengah hingga tinggi karena mengganggu kelayakan jadwal. RUJUKAN APA (Triyono & Kusrini, 2024) (Pytel, 2025) HALAMAN PDF RUJUKAN SESUAI SLIDE INI (Triyono & Kusrini, 2024) Slide 31 · Hal. 20 Algoritma Genetika dalam Penjadwalan Mata Kuliah: Eksplorasi Metode Crossover, Mutasi, dan Seleksi Terbaik Halaman dipilih dari analisis teks PDF per slide. Kata kunci cocok: konflik, genetika, mutasi, crossover, algoritma, fitness, seleksi, dasar (Pytel, 2025) Slide 31 · Hal. 4 Fuzzy logic applied to tunning mutation size in evolutionary algorithms Halaman dipilih dari analisis teks PDF per slide. Kata kunci coc",
+      "containsBrokenPreview": false,
+      "cardCount": 2,
+      "imgs": [
+        {
+          "src": "assets/reference-pdf-pages/triyono-kusrini-2024-slide-31-page-20.jpg",
+          "w": 828,
+          "h": 1170,
+          "complete": true
+        },
+        {
+          "src": "assets/reference-pdf-pages/pytel-2025-slide-31-page-04.jpg",
+          "w": 1024,
+          "h": 1346,
+          "complete": true
+        }
+      ],
+      "links": [
+        {
+          "href": "http://127.0.0.1:8000/assets/reference-pdfs/077%20-%20Algoritma%20Genetika%20dalam%20Penjadwalan%20Mata%20Kuliah%20Eksplorasi%20Metode%20Crossover%2C%20Mutasi%2C%20dan%20Seleksi%20Terbaik.pdf",
+          "target": "_blank"
+        },
+        {
+          "href": "http://127.0.0.1:8000/assets/reference-pdfs/056%20-%20Fuzzy%20logic%20applied%20to%20tunning%20mutation%20size%20in%20evolutionary%20algorithms.pdf",
+          "target": "_blank"
+        }
+      ],
+      "screenshot": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\modal-slide-31-final.png",
+      "clickOpens": null
+    },
+    {
+      "slide": 35,
+      "selector": ".slide.active .subdesc",
+      "required": [
+        {
+          "term": "Crossover rate membaca diversity",
+          "ok": true
+        },
+        {
+          "term": "mutation rate membaca pergerakan skor fitness",
+          "ok": true
+        }
+      ],
+      "textSample": "METODOLOGI - SLIDE 35 Cr mengatur intensitas pertukaran genetik antar parent dengan membaca diversit... × LOKASI TEKS 35 Fuzzy untuk Mengatur Cr dan Mr Paragraf/item yang diklik Cr mengatur intensitas pertukaran genetik antar parent dengan membaca diversity dan stagnansi hasil crossover. Mr berbeda karena memakai pergerakan skor fitness dari iterasi sebelumnya pada iterasi lebih dari satu, sehingga mutasi mengikuti faktor pertumbuhan... KONTEKS SKRIPSI Fuzzy Logic dipakai sebagai pengendali adaptif parameter GA. Crossover rate membaca diversity dan stagnansi hasil crossover untuk mengatur ruang eksplorasi; mutation rate membaca pergerakan skor fitness dari iterasi sebelumnya agar mutasi mengikuti faktor pertumbuhan fitness. RUJUKAN APA (Subburaj & Miruna Joe Amali, 2025) (Pytel, 2025) HALAMAN PDF RUJUKAN SESUAI SLIDE INI (Subburaj & Miruna Joe Amali, 2025) Slide 35 · Hal. 13 A fuzzy system based self-adaptive memetic algorithm using population diversity control for evolutionary multi-objective optimization Halaman dipilih dari analisis teks PDF per slide. Kata kunci cocok: fitness, c",
+      "containsBrokenPreview": false,
+      "cardCount": 2,
+      "imgs": [
+        {
+          "src": "assets/reference-pdf-pages/subburaj-miruna-joe-amali-2025-slide-35-page-13.jpg",
+          "w": 1024,
+          "h": 1346,
+          "complete": true
+        },
+        {
+          "src": "assets/reference-pdf-pages/pytel-2025-slide-35-page-04.jpg",
+          "w": 1024,
+          "h": 1346,
+          "complete": true
+        }
+      ],
+      "links": [
+        {
+          "href": "http://127.0.0.1:8000/assets/reference-pdfs/068%20-%20A%20fuzzy%20system%20based%20self-adaptive%20memetic%20algorithm%20using%20population%20diversity%20control%20for%20evolutionary%20multi-objective%20optimization.pdf",
+          "target": "_blank"
+        },
+        {
+          "href": "http://127.0.0.1:8000/assets/reference-pdfs/056%20-%20Fuzzy%20logic%20applied%20to%20tunning%20mutation%20size%20in%20evolutionary%20algorithms.pdf",
+          "target": "_blank"
+        }
+      ],
+      "screenshot": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\modal-slide-35-final.png",
+      "clickOpens": {
+        "url": "http://127.0.0.1:8000/assets/reference-pdfs/068%20-%20A%20fuzzy%20system%20based%20self-adaptive%20memetic%20algorithm%20using%20population%20diversity%20control%20for%20evolutionary%20multi-objective%20optimization.pdf",
+        "title": "",
+        "isPdf": true
+      }
+    },
+    {
+      "slide": 44,
+      "selector": ".slide.active .subdesc",
+      "required": [
+        {
+          "term": "Greedy post-processing",
+          "ok": true
+        },
+        {
+          "term": "konflik residual",
+          "ok": true
+        }
+      ],
+      "textSample": "PENUTUP - SLIDE 44 Representasi gen, fitness, penalty, dan fuzzy controller sudah bekerja dalam s... × LOKASI TEKS 44 Kesimpulan Utama dan Saran Pengembangan Paragraf/item yang diklik Representasi gen, fitness, penalty, dan fuzzy controller sudah bekerja dalam satu sistem penjadwalan. Pengembangan berikutnya diarahkan pada Greedy post-processing untuk memperbaiki konflik residual, integrasi data akademik, perluasan constraint, dan pematanga... KONTEKS SKRIPSI Repair dan Greedy post-processing ditempatkan sebagai tahap penyempurnaan akhir. Jadwal terbaik diperiksa kembali, konflik residual seperti ruang, mata kuliah tatap muka/teori, asisten, dan kelompok dideteksi, lalu kandidat pengganti dicari tanpa menjalankan ulang seluruh optimasi. RUJUKAN APA (Triyono & Kusrini, 2024) (Zhou et al., 2020) HALAMAN PDF RUJUKAN SESUAI SLIDE INI (Triyono & Kusrini, 2024) Slide 44 · Hal. 2 Algoritma Genetika dalam Penjadwalan Mata Kuliah: Eksplorasi Metode Crossover, Mutasi, dan Seleksi Terbaik Halaman dipilih dari analisis teks PDF per slide. Kata kunci cocok: penjadwalan, genetika, crossover, mutas",
+      "containsBrokenPreview": false,
+      "cardCount": 2,
+      "imgs": [
+        {
+          "src": "assets/reference-pdf-pages/triyono-kusrini-2024-slide-44-page-02.jpg",
+          "w": 828,
+          "h": 1170,
+          "complete": true
+        },
+        {
+          "src": "assets/reference-pdf-pages/zhou-et-al-2020-slide-44-page-05.jpg",
+          "w": 1191,
+          "h": 1582,
+          "complete": true
+        }
+      ],
+      "links": [
+        {
+          "href": "http://127.0.0.1:8000/assets/reference-pdfs/077%20-%20Algoritma%20Genetika%20dalam%20Penjadwalan%20Mata%20Kuliah%20Eksplorasi%20Metode%20Crossover%2C%20Mutasi%2C%20dan%20Seleksi%20Terbaik.pdf",
+          "target": "_blank"
+        },
+        {
+          "href": "http://127.0.0.1:8000/assets/reference-pdfs/088%20-%20An%20improved%20genetic%20algorithm%20using%20greedy%20strategy%20toward%20task%20scheduling%20optimization%20in%20cloud%20environments.pdf",
+          "target": "_blank"
+        }
+      ],
+      "screenshot": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\modal-slide-44-final.png",
+      "clickOpens": null
+    }
+  ]
+}

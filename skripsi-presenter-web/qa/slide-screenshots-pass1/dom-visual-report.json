@@ -1,0 +1,1019 @@
+[
+  {
+    "badImages": [],
+    "imageCount": 1,
+    "problemElements": [],
+    "rect": {
+      "height": 968,
+      "width": 1720,
+      "x": 100,
+      "y": 56
+    },
+    "slide": 1,
+    "stageRect": {
+      "height": 968,
+      "width": 1720,
+      "x": 100,
+      "y": 56
+    },
+    "textLength": 429,
+    "title": "Optimasi Algoritma Genetika Menggunakan Fuzzy Logic pada Penjadwalan Praktikum",
+    "file": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-pass1\\slide-01.png"
+  },
+  {
+    "badImages": [],
+    "imageCount": 1,
+    "problemElements": [],
+    "rect": {
+      "height": 963,
+      "width": 1713,
+      "x": 104,
+      "y": 58
+    },
+    "slide": 2,
+    "stageRect": {
+      "height": 968,
+      "width": 1720,
+      "x": 100,
+      "y": 56
+    },
+    "textLength": 792,
+    "title": "Agenda Presentasi",
+    "file": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-pass1\\slide-02.png"
+  },
+  {
+    "badImages": [],
+    "imageCount": 2,
+    "problemElements": [],
+    "rect": {
+      "height": 963,
+      "width": 1711,
+      "x": 104,
+      "y": 59
+    },
+    "slide": 3,
+    "stageRect": {
+      "height": 968,
+      "width": 1720,
+      "x": 100,
+      "y": 56
+    },
+    "textLength": 487,
+    "title": "BAB I - Pendahuluan",
+    "file": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-pass1\\slide-03.png"
+  },
+  {
+    "badImages": [],
+    "imageCount": 2,
+    "problemElements": [
+      {
+        "cls": "split",
+        "rect": {
+          "bottom": 1057,
+          "left": 166,
+          "right": 1754,
+          "top": 378
+        },
+        "tag": "DIV",
+        "text": "Fokus kajian ini adalah penjadwalan praktikum laboratorium FST yang tidak selalu cocok den"
+      }
+    ],
+    "rect": {
+      "height": 963,
+      "width": 1713,
+      "x": 104,
+      "y": 58
+    },
+    "slide": 4,
+    "stageRect": {
+      "height": 968,
+      "width": 1720,
+      "x": 100,
+      "y": 56
+    },
+    "textLength": 762,
+    "title": "Pendahuluan",
+    "file": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-pass1\\slide-04.png"
+  },
+  {
+    "badImages": [],
+    "imageCount": 1,
+    "problemElements": [],
+    "rect": {
+      "height": 964,
+      "width": 1713,
+      "x": 103,
+      "y": 58
+    },
+    "slide": 5,
+    "stageRect": {
+      "height": 968,
+      "width": 1720,
+      "x": 100,
+      "y": 56
+    },
+    "textLength": 1053,
+    "title": "Masalah Penjadwalan Praktikum",
+    "file": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-pass1\\slide-05.png"
+  },
+  {
+    "badImages": [],
+    "imageCount": 1,
+    "problemElements": [],
+    "rect": {
+      "height": 965,
+      "width": 1716,
+      "x": 102,
+      "y": 57
+    },
+    "slide": 6,
+    "stageRect": {
+      "height": 968,
+      "width": 1720,
+      "x": 100,
+      "y": 56
+    },
+    "textLength": 913,
+    "title": "Fokus Masalah Penelitian",
+    "file": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-pass1\\slide-06.png"
+  },
+  {
+    "badImages": [],
+    "imageCount": 1,
+    "problemElements": [],
+    "rect": {
+      "height": 964,
+      "width": 1713,
+      "x": 103,
+      "y": 58
+    },
+    "slide": 7,
+    "stageRect": {
+      "height": 968,
+      "width": 1720,
+      "x": 100,
+      "y": 56
+    },
+    "textLength": 1131,
+    "title": "Arah Penelitian",
+    "file": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-pass1\\slide-07.png"
+  },
+  {
+    "badImages": [],
+    "imageCount": 1,
+    "problemElements": [],
+    "rect": {
+      "height": 963,
+      "width": 1712,
+      "x": 104,
+      "y": 58
+    },
+    "slide": 8,
+    "stageRect": {
+      "height": 968,
+      "width": 1720,
+      "x": 100,
+      "y": 56
+    },
+    "textLength": 948,
+    "title": "Kontribusi Penelitian",
+    "file": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-pass1\\slide-08.png"
+  },
+  {
+    "badImages": [],
+    "imageCount": 2,
+    "problemElements": [],
+    "rect": {
+      "height": 962,
+      "width": 1710,
+      "x": 105,
+      "y": 59
+    },
+    "slide": 9,
+    "stageRect": {
+      "height": 968,
+      "width": 1720,
+      "x": 100,
+      "y": 56
+    },
+    "textLength": 427,
+    "title": "BAB II - Tinjauan Pustaka",
+    "file": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-pass1\\slide-09.png"
+  },
+  {
+    "badImages": [],
+    "imageCount": 2,
+    "problemElements": [
+      {
+        "cls": "split",
+        "rect": {
+          "bottom": 1057,
+          "left": 166,
+          "right": 1754,
+          "top": 378
+        },
+        "tag": "DIV",
+        "text": "Penjadwalan, Algoritma Genetika, dan Fuzzy Logic menjadi fondasi penyelesaian masalah mult"
+      }
+    ],
+    "rect": {
+      "height": 963,
+      "width": 1711,
+      "x": 104,
+      "y": 59
+    },
+    "slide": 10,
+    "stageRect": {
+      "height": 968,
+      "width": 1720,
+      "x": 100,
+      "y": 56
+    },
+    "textLength": 1147,
+    "title": "Tinjauan Pustaka dan Algoritma Penjadwalan",
+    "file": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-pass1\\slide-10.png"
+  },
+  {
+    "badImages": [],
+    "imageCount": 1,
+    "problemElements": [],
+    "rect": {
+      "height": 963,
+      "width": 1712,
+      "x": 104,
+      "y": 58
+    },
+    "slide": 11,
+    "stageRect": {
+      "height": 968,
+      "width": 1720,
+      "x": 100,
+      "y": 56
+    },
+    "textLength": 920,
+    "title": "Algoritma Genetika",
+    "file": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-pass1\\slide-11.png"
+  },
+  {
+    "badImages": [],
+    "imageCount": 2,
+    "problemElements": [
+      {
+        "cls": "split",
+        "rect": {
+          "bottom": 1058,
+          "left": 165,
+          "right": 1755,
+          "top": 378
+        },
+        "tag": "DIV",
+        "text": "Dalam penelitian ini, satu kromosom merepresentasikan satu susunan jadwal praktikum lengka"
+      }
+    ],
+    "rect": {
+      "height": 964,
+      "width": 1713,
+      "x": 103,
+      "y": 58
+    },
+    "slide": 12,
+    "stageRect": {
+      "height": 968,
+      "width": 1720,
+      "x": 100,
+      "y": 56
+    },
+    "textLength": 757,
+    "title": "Kromosom",
+    "file": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-pass1\\slide-12.png"
+  },
+  {
+    "badImages": [],
+    "imageCount": 1,
+    "problemElements": [],
+    "rect": {
+      "height": 964,
+      "width": 1714,
+      "x": 103,
+      "y": 58
+    },
+    "slide": 13,
+    "stageRect": {
+      "height": 968,
+      "width": 1720,
+      "x": 100,
+      "y": 56
+    },
+    "textLength": 964,
+    "title": "Pembangkitan Kromosom",
+    "file": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-pass1\\slide-13.png"
+  },
+  {
+    "badImages": [],
+    "imageCount": 1,
+    "problemElements": [],
+    "rect": {
+      "height": 963,
+      "width": 1711,
+      "x": 104,
+      "y": 59
+    },
+    "slide": 14,
+    "stageRect": {
+      "height": 968,
+      "width": 1720,
+      "x": 100,
+      "y": 56
+    },
+    "textLength": 886,
+    "title": "Fitness Function",
+    "file": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-pass1\\slide-14.png"
+  },
+  {
+    "badImages": [],
+    "imageCount": 1,
+    "problemElements": [],
+    "rect": {
+      "height": 964,
+      "width": 1714,
+      "x": 103,
+      "y": 58
+    },
+    "slide": 15,
+    "stageRect": {
+      "height": 968,
+      "width": 1720,
+      "x": 100,
+      "y": 56
+    },
+    "textLength": 690,
+    "title": "Crossover",
+    "file": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-pass1\\slide-15.png"
+  },
+  {
+    "badImages": [],
+    "imageCount": 1,
+    "problemElements": [
+      {
+        "cls": "split",
+        "rect": {
+          "bottom": 1064,
+          "left": 166,
+          "right": 1754,
+          "top": 385
+        },
+        "tag": "DIV",
+        "text": "Mutasi mengubah sebagian kecil gen untuk memperluas eksplorasi dan menghindari solusi yang"
+      }
+    ],
+    "rect": {
+      "height": 963,
+      "width": 1713,
+      "x": 104,
+      "y": 58
+    },
+    "slide": 16,
+    "stageRect": {
+      "height": 968,
+      "width": 1720,
+      "x": 100,
+      "y": 56
+    },
+    "textLength": 776,
+    "title": "Mutation",
+    "file": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-pass1\\slide-16.png"
+  },
+  {
+    "badImages": [],
+    "imageCount": 1,
+    "problemElements": [],
+    "rect": {
+      "height": 963,
+      "width": 1712,
+      "x": 104,
+      "y": 58
+    },
+    "slide": 17,
+    "stageRect": {
+      "height": 968,
+      "width": 1720,
+      "x": 100,
+      "y": 56
+    },
+    "textLength": 889,
+    "title": "Penjadwalan Akademik",
+    "file": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-pass1\\slide-17.png"
+  },
+  {
+    "badImages": [],
+    "imageCount": 1,
+    "problemElements": [],
+    "rect": {
+      "height": 965,
+      "width": 1716,
+      "x": 102,
+      "y": 57
+    },
+    "slide": 18,
+    "stageRect": {
+      "height": 968,
+      "width": 1720,
+      "x": 100,
+      "y": 56
+    },
+    "textLength": 953,
+    "title": "Penerapan AG dalam Penjadwalan",
+    "file": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-pass1\\slide-18.png"
+  },
+  {
+    "badImages": [],
+    "imageCount": 1,
+    "problemElements": [],
+    "rect": {
+      "height": 964,
+      "width": 1714,
+      "x": 103,
+      "y": 58
+    },
+    "slide": 19,
+    "stageRect": {
+      "height": 968,
+      "width": 1720,
+      "x": 100,
+      "y": 56
+    },
+    "textLength": 860,
+    "title": "Penjadwalan Laboratorium",
+    "file": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-pass1\\slide-19.png"
+  },
+  {
+    "badImages": [],
+    "imageCount": 1,
+    "problemElements": [
+      {
+        "cls": "split",
+        "rect": {
+          "bottom": 1065,
+          "left": 165,
+          "right": 1755,
+          "top": 384
+        },
+        "tag": "DIV",
+        "text": "Fuzzy Logic memetakan nilai crisp menjadi derajat keanggotaan sehingga kondisi yang tidak "
+      }
+    ],
+    "rect": {
+      "height": 965,
+      "width": 1715,
+      "x": 102,
+      "y": 58
+    },
+    "slide": 20,
+    "stageRect": {
+      "height": 968,
+      "width": 1720,
+      "x": 100,
+      "y": 56
+    },
+    "textLength": 971,
+    "title": "Fuzzy Logic dan Variabel Linguistik",
+    "file": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-pass1\\slide-20.png"
+  },
+  {
+    "badImages": [],
+    "imageCount": 1,
+    "problemElements": [],
+    "rect": {
+      "height": 964,
+      "width": 1713,
+      "x": 103,
+      "y": 58
+    },
+    "slide": 21,
+    "stageRect": {
+      "height": 968,
+      "width": 1720,
+      "x": 100,
+      "y": 56
+    },
+    "textLength": 864,
+    "title": "Optimasi Algoritma Menggunakan Fuzzy Logic",
+    "file": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-pass1\\slide-21.png"
+  },
+  {
+    "badImages": [],
+    "imageCount": 1,
+    "problemElements": [],
+    "rect": {
+      "height": 964,
+      "width": 1713,
+      "x": 103,
+      "y": 58
+    },
+    "slide": 22,
+    "stageRect": {
+      "height": 968,
+      "width": 1720,
+      "x": 100,
+      "y": 56
+    },
+    "textLength": 955,
+    "title": "Evaluasi Kinerja Hybrid Genetic Algorithm",
+    "file": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-pass1\\slide-22.png"
+  },
+  {
+    "badImages": [],
+    "imageCount": 1,
+    "problemElements": [],
+    "rect": {
+      "height": 964,
+      "width": 1714,
+      "x": 103,
+      "y": 58
+    },
+    "slide": 23,
+    "stageRect": {
+      "height": 968,
+      "width": 1720,
+      "x": 100,
+      "y": 56
+    },
+    "textLength": 727,
+    "title": "Kerangka Pemikiran",
+    "file": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-pass1\\slide-23.png"
+  },
+  {
+    "badImages": [],
+    "imageCount": 1,
+    "problemElements": [],
+    "rect": {
+      "height": 965,
+      "width": 1715,
+      "x": 102,
+      "y": 58
+    },
+    "slide": 24,
+    "stageRect": {
+      "height": 968,
+      "width": 1720,
+      "x": 100,
+      "y": 56
+    },
+    "textLength": 1027,
+    "title": "Penelitian Terdahulu",
+    "file": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-pass1\\slide-24.png"
+  },
+  {
+    "badImages": [],
+    "imageCount": 2,
+    "problemElements": [],
+    "rect": {
+      "height": 963,
+      "width": 1711,
+      "x": 104,
+      "y": 59
+    },
+    "slide": 25,
+    "stageRect": {
+      "height": 968,
+      "width": 1720,
+      "x": 100,
+      "y": 56
+    },
+    "textLength": 417,
+    "title": "BAB III - Metodologi",
+    "file": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-pass1\\slide-25.png"
+  },
+  {
+    "badImages": [],
+    "imageCount": 1,
+    "problemElements": [],
+    "rect": {
+      "height": 964,
+      "width": 1714,
+      "x": 103,
+      "y": 58
+    },
+    "slide": 26,
+    "stageRect": {
+      "height": 968,
+      "width": 1720,
+      "x": 100,
+      "y": 56
+    },
+    "textLength": 1052,
+    "title": "Metodologi Penelitian dan Pengumpulan Data",
+    "file": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-pass1\\slide-26.png"
+  },
+  {
+    "badImages": [],
+    "imageCount": 1,
+    "problemElements": [],
+    "rect": {
+      "height": 964,
+      "width": 1714,
+      "x": 103,
+      "y": 58
+    },
+    "slide": 27,
+    "stageRect": {
+      "height": 968,
+      "width": 1720,
+      "x": 100,
+      "y": 56
+    },
+    "textLength": 1046,
+    "title": "Pipeline Sistem Optimasi",
+    "file": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-pass1\\slide-27.png"
+  },
+  {
+    "badImages": [],
+    "imageCount": 2,
+    "problemElements": [],
+    "rect": {
+      "height": 965,
+      "width": 1715,
+      "x": 102,
+      "y": 58
+    },
+    "slide": 28,
+    "stageRect": {
+      "height": 968,
+      "width": 1720,
+      "x": 100,
+      "y": 56
+    },
+    "textLength": 887,
+    "title": "Repair dan Post-Processing Konflik",
+    "file": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-pass1\\slide-28.png"
+  },
+  {
+    "badImages": [],
+    "imageCount": 1,
+    "problemElements": [],
+    "rect": {
+      "height": 963,
+      "width": 1712,
+      "x": 104,
+      "y": 58
+    },
+    "slide": 29,
+    "stageRect": {
+      "height": 968,
+      "width": 1720,
+      "x": 100,
+      "y": 56
+    },
+    "textLength": 841,
+    "title": "Representasi Jadwal sebagai Kromosom",
+    "file": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-pass1\\slide-29.png"
+  },
+  {
+    "badImages": [],
+    "imageCount": 1,
+    "problemElements": [],
+    "rect": {
+      "height": 963,
+      "width": 1711,
+      "x": 104,
+      "y": 59
+    },
+    "slide": 30,
+    "stageRect": {
+      "height": 968,
+      "width": 1720,
+      "x": 100,
+      "y": 56
+    },
+    "textLength": 754,
+    "title": "Inisialisasi Populasi Awal",
+    "file": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-pass1\\slide-30.png"
+  },
+  {
+    "badImages": [],
+    "imageCount": 1,
+    "problemElements": [],
+    "rect": {
+      "height": 964,
+      "width": 1713,
+      "x": 103,
+      "y": 58
+    },
+    "slide": 31,
+    "stageRect": {
+      "height": 968,
+      "width": 1720,
+      "x": 100,
+      "y": 56
+    },
+    "textLength": 861,
+    "title": "Penalty sebagai Dasar Kualitas Jadwal",
+    "file": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-pass1\\slide-31.png"
+  },
+  {
+    "badImages": [],
+    "imageCount": 1,
+    "problemElements": [],
+    "rect": {
+      "height": 964,
+      "width": 1714,
+      "x": 103,
+      "y": 58
+    },
+    "slide": 32,
+    "stageRect": {
+      "height": 968,
+      "width": 1720,
+      "x": 100,
+      "y": 56
+    },
+    "textLength": 766,
+    "title": "Rekombinasi Jadwal antar Parent",
+    "file": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-pass1\\slide-32.png"
+  },
+  {
+    "badImages": [],
+    "imageCount": 1,
+    "problemElements": [],
+    "rect": {
+      "height": 963,
+      "width": 1713,
+      "x": 104,
+      "y": 58
+    },
+    "slide": 33,
+    "stageRect": {
+      "height": 968,
+      "width": 1720,
+      "x": 100,
+      "y": 56
+    },
+    "textLength": 736,
+    "title": "Menjaga Keragaman Populasi",
+    "file": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-pass1\\slide-33.png"
+  },
+  {
+    "badImages": [],
+    "imageCount": 2,
+    "problemElements": [],
+    "rect": {
+      "height": 965,
+      "width": 1715,
+      "x": 102,
+      "y": 58
+    },
+    "slide": 34,
+    "stageRect": {
+      "height": 968,
+      "width": 1720,
+      "x": 100,
+      "y": 56
+    },
+    "textLength": 929,
+    "title": "Controller Adaptif pada Parameter GA",
+    "file": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-pass1\\slide-34.png"
+  },
+  {
+    "badImages": [],
+    "imageCount": 1,
+    "problemElements": [],
+    "rect": {
+      "height": 964,
+      "width": 1714,
+      "x": 103,
+      "y": 58
+    },
+    "slide": 35,
+    "stageRect": {
+      "height": 968,
+      "width": 1720,
+      "x": 100,
+      "y": 56
+    },
+    "textLength": 1197,
+    "title": "Fuzzy untuk Mengatur Cr dan Mr",
+    "file": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-pass1\\slide-35.png"
+  },
+  {
+    "badImages": [],
+    "imageCount": 2,
+    "problemElements": [],
+    "rect": {
+      "height": 963,
+      "width": 1713,
+      "x": 104,
+      "y": 58
+    },
+    "slide": 36,
+    "stageRect": {
+      "height": 968,
+      "width": 1720,
+      "x": 100,
+      "y": 56
+    },
+    "textLength": 709,
+    "title": "Evaluasi dan Implementasi GUI",
+    "file": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-pass1\\slide-36.png"
+  },
+  {
+    "badImages": [],
+    "imageCount": 2,
+    "problemElements": [],
+    "rect": {
+      "height": 964,
+      "width": 1714,
+      "x": 103,
+      "y": 58
+    },
+    "slide": 37,
+    "stageRect": {
+      "height": 968,
+      "width": 1720,
+      "x": 100,
+      "y": 56
+    },
+    "textLength": 440,
+    "title": "BAB IV - Hasil dan Pembahasan",
+    "file": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-pass1\\slide-37.png"
+  },
+  {
+    "badImages": [],
+    "imageCount": 1,
+    "problemElements": [],
+    "rect": {
+      "height": 964,
+      "width": 1714,
+      "x": 103,
+      "y": 58
+    },
+    "slide": 38,
+    "stageRect": {
+      "height": 968,
+      "width": 1720,
+      "x": 100,
+      "y": 56
+    },
+    "textLength": 798,
+    "title": "Hasil dan Rekap Data Praktikum FST",
+    "file": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-pass1\\slide-38.png"
+  },
+  {
+    "badImages": [],
+    "imageCount": 2,
+    "problemElements": [],
+    "rect": {
+      "height": 963,
+      "width": 1712,
+      "x": 104,
+      "y": 58
+    },
+    "slide": 39,
+    "stageRect": {
+      "height": 968,
+      "width": 1720,
+      "x": 100,
+      "y": 56
+    },
+    "textLength": 739,
+    "title": "Implementasi Program dan Parameter Adaptif",
+    "file": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-pass1\\slide-39.png"
+  },
+  {
+    "badImages": [],
+    "imageCount": 1,
+    "problemElements": [],
+    "rect": {
+      "height": 963,
+      "width": 1712,
+      "x": 104,
+      "y": 58
+    },
+    "slide": 40,
+    "stageRect": {
+      "height": 968,
+      "width": 1720,
+      "x": 100,
+      "y": 56
+    },
+    "textLength": 656,
+    "title": "Classic GA vs Fuzzy GA",
+    "file": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-pass1\\slide-40.png"
+  },
+  {
+    "badImages": [],
+    "imageCount": 2,
+    "problemElements": [],
+    "rect": {
+      "height": 964,
+      "width": 1714,
+      "x": 103,
+      "y": 58
+    },
+    "slide": 41,
+    "stageRect": {
+      "height": 968,
+      "width": 1720,
+      "x": 100,
+      "y": 56
+    },
+    "textLength": 668,
+    "title": "Hasil Jadwal, Implikasi, dan GUI",
+    "file": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-pass1\\slide-41.png"
+  },
+  {
+    "badImages": [],
+    "imageCount": 2,
+    "problemElements": [],
+    "rect": {
+      "height": 963,
+      "width": 1712,
+      "x": 104,
+      "y": 58
+    },
+    "slide": 42,
+    "stageRect": {
+      "height": 968,
+      "width": 1720,
+      "x": 100,
+      "y": 56
+    },
+    "textLength": 432,
+    "title": "BAB V - Penutup",
+    "file": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-pass1\\slide-42.png"
+  },
+  {
+    "badImages": [],
+    "imageCount": 1,
+    "problemElements": [
+      {
+        "cls": "split",
+        "rect": {
+          "bottom": 1064,
+          "left": 166,
+          "right": 1754,
+          "top": 385
+        },
+        "tag": "DIV",
+        "text": "Penelitian membangun dan mengevaluasi sistem penjadwalan praktikum berbasis Algoritma Gene"
+      }
+    ],
+    "rect": {
+      "height": 963,
+      "width": 1712,
+      "x": 104,
+      "y": 58
+    },
+    "slide": 43,
+    "stageRect": {
+      "height": 968,
+      "width": 1720,
+      "x": 100,
+      "y": 56
+    },
+    "textLength": 919,
+    "title": "Kesimpulan dan Saran",
+    "file": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-pass1\\slide-43.png"
+  },
+  {
+    "badImages": [],
+    "imageCount": 1,
+    "problemElements": [],
+    "rect": {
+      "height": 963,
+      "width": 1712,
+      "x": 104,
+      "y": 58
+    },
+    "slide": 44,
+    "stageRect": {
+      "height": 968,
+      "width": 1720,
+      "x": 100,
+      "y": 56
+    },
+    "textLength": 1548,
+    "title": "Kesimpulan Utama dan Saran Pengembangan",
+    "file": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-pass1\\slide-44.png"
+  },
+  {
+    "badImages": [],
+    "imageCount": 2,
+    "problemElements": [],
+    "rect": {
+      "height": 966,
+      "width": 1717,
+      "x": 102,
+      "y": 57
+    },
+    "slide": 45,
+    "stageRect": {
+      "height": 968,
+      "width": 1720,
+      "x": 100,
+      "y": 56
+    },
+    "textLength": 284,
+    "title": "Terima Kasih",
+    "file": "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\slide-screenshots-pass1\\slide-45.png"
+  }
+]

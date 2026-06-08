@@ -1,0 +1,268 @@
+{
+  "slidesWithCitations": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44
+  ],
+  "slidesChecked": 0,
+  "failureCount": 43,
+  "failures": [
+    {
+      "slide": 2,
+      "reason": "modal did not open",
+      "title": "Agenda Presentasi"
+    },
+    {
+      "slide": 3,
+      "reason": "modal did not open",
+      "title": "BAB I - Pendahuluan"
+    },
+    {
+      "slide": 4,
+      "reason": "modal did not open",
+      "title": "Pendahuluan"
+    },
+    {
+      "slide": 5,
+      "reason": "modal did not open",
+      "title": "Masalah Penjadwalan Praktikum"
+    },
+    {
+      "slide": 6,
+      "reason": "modal did not open",
+      "title": "Fokus Masalah Penelitian"
+    },
+    {
+      "slide": 7,
+      "reason": "modal did not open",
+      "title": "Arah Penelitian"
+    },
+    {
+      "slide": 8,
+      "reason": "modal did not open",
+      "title": "Kontribusi Penelitian"
+    },
+    {
+      "slide": 9,
+      "reason": "modal did not open",
+      "title": "BAB II - Tinjauan Pustaka"
+    },
+    {
+      "slide": 10,
+      "reason": "modal did not open",
+      "title": "Tinjauan Pustaka dan Algoritma Penjadwalan"
+    },
+    {
+      "slide": 11,
+      "reason": "modal did not open",
+      "title": "Algoritma Genetika"
+    },
+    {
+      "slide": 12,
+      "reason": "modal did not open",
+      "title": "Kromosom"
+    },
+    {
+      "slide": 13,
+      "reason": "modal did not open",
+      "title": "Pembangkitan Kromosom"
+    },
+    {
+      "slide": 14,
+      "reason": "modal did not open",
+      "title": "Fitness Function"
+    },
+    {
+      "slide": 15,
+      "reason": "modal did not open",
+      "title": "Crossover"
+    },
+    {
+      "slide": 16,
+      "reason": "modal did not open",
+      "title": "Mutation"
+    },
+    {
+      "slide": 17,
+      "reason": "modal did not open",
+      "title": "Penjadwalan Akademik"
+    },
+    {
+      "slide": 18,
+      "reason": "modal did not open",
+      "title": "Penerapan AG dalam Penjadwalan"
+    },
+    {
+      "slide": 19,
+      "reason": "modal did not open",
+      "title": "Penjadwalan Laboratorium"
+    },
+    {
+      "slide": 20,
+      "reason": "modal did not open",
+      "title": "Fuzzy Logic dan Variabel Linguistik"
+    },
+    {
+      "slide": 21,
+      "reason": "modal did not open",
+      "title": "Optimasi Algoritma Menggunakan Fuzzy Logic"
+    },
+    {
+      "slide": 22,
+      "reason": "modal did not open",
+      "title": "Evaluasi Kinerja Hybrid Genetic Algorithm"
+    },
+    {
+      "slide": 23,
+      "reason": "modal did not open",
+      "title": "Kerangka Pemikiran"
+    },
+    {
+      "slide": 24,
+      "reason": "modal did not open",
+      "title": "Penelitian Terdahulu"
+    },
+    {
+      "slide": 25,
+      "reason": "modal did not open",
+      "title": "BAB III - Metodologi"
+    },
+    {
+      "slide": 26,
+      "reason": "modal did not open",
+      "title": "Metodologi Penelitian dan Pengumpulan Data"
+    },
+    {
+      "slide": 27,
+      "reason": "modal did not open",
+      "title": "Pipeline Sistem Optimasi"
+    },
+    {
+      "slide": 28,
+      "reason": "modal did not open",
+      "title": "Repair dan Post-Processing Konflik"
+    },
+    {
+      "slide": 29,
+      "reason": "modal did not open",
+      "title": "Representasi Jadwal sebagai Kromosom"
+    },
+    {
+      "slide": 30,
+      "reason": "modal did not open",
+      "title": "Inisialisasi Populasi Awal"
+    },
+    {
+      "slide": 31,
+      "reason": "modal did not open",
+      "title": "Penalty sebagai Dasar Kualitas Jadwal"
+    },
+    {
+      "slide": 32,
+      "reason": "modal did not open",
+      "title": "Rekombinasi Jadwal antar Parent"
+    },
+    {
+      "slide": 33,
+      "reason": "modal did not open",
+      "title": "Menjaga Keragaman Populasi"
+    },
+    {
+      "slide": 34,
+      "reason": "modal did not open",
+      "title": "Controller Adaptif pada Parameter GA"
+    },
+    {
+      "slide": 35,
+      "reason": "modal did not open",
+      "title": "Fuzzy untuk Mengatur Cr dan Mr"
+    },
+    {
+      "slide": 36,
+      "reason": "modal did not open",
+      "title": "Evaluasi dan Implementasi GUI"
+    },
+    {
+      "slide": 37,
+      "reason": "modal did not open",
+      "title": "BAB IV - Hasil dan Pembahasan"
+    },
+    {
+      "slide": 38,
+      "reason": "modal did not open",
+      "title": "Hasil dan Rekap Data Praktikum FST"
+    },
+    {
+      "slide": 39,
+      "reason": "modal did not open",
+      "title": "Implementasi Program dan Parameter Adaptif"
+    },
+    {
+      "slide": 40,
+      "reason": "modal did not open",
+      "title": "Classic GA vs Fuzzy GA"
+    },
+    {
+      "slide": 41,
+      "reason": "modal did not open",
+      "title": "Hasil Jadwal, Implikasi, dan GUI"
+    },
+    {
+      "slide": 42,
+      "reason": "modal did not open",
+      "title": "BAB V - Penutup"
+    },
+    {
+      "slide": 43,
+      "reason": "modal did not open",
+      "title": "Kesimpulan dan Saran"
+    },
+    {
+      "slide": 44,
+      "reason": "modal did not open",
+      "title": "Kesimpulan Utama dan Saran Pengembangan"
+    }
+  ],
+  "totalCardsObserved": 0,
+  "formerMissingSlides": []
+}

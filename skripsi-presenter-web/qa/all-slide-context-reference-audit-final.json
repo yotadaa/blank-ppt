@@ -1,0 +1,1221 @@
+{
+  "generatedAt": "2026-06-05T10:56:10.043Z",
+  "issues": [],
+  "rows": [
+    {
+      "slide": 1,
+      "title": "Optimasi Algoritma Genetika Menggunakan Fuzzy Logic pada Penjadwalan Praktikum",
+      "chapter": "Pendahuluan",
+      "clickTarget": ".slide.active .card",
+      "clickedText": "Pembimbing Utama Pradita Eko Prasetyo Utomo, S.Pd., M.Cs.",
+      "context": "Algoritma Genetika dipakai sebagai metode pencarian kombinasi jadwal. Populasi, fitness, seleksi, crossover, dan mutasi membantu sistem menjelajahi banyak kandidat jadwal secara bertahap.",
+      "refs": [
+        "(Yazid, 2025)",
+        "(Pratama, 2025)",
+        "(Yazid, 2025)",
+        "(Pratama, 2025)"
+      ],
+      "pages": [
+        "Slide 01 · Hal. 7",
+        "Slide 01 · Hal. 1"
+      ],
+      "previewTitles": [
+        "LABORATORIUM SEBAGAI LAYANAN TERPADU DI UNIVERSITAS – INTEGRASI EFISIENSI PELAYANAN DAN MANAJEMEN SUMBER DAYA",
+        "Sistem Penjadwalan Otomatis Menggunakan Algoritma Genetika pada Lingkungan Sekolah"
+      ],
+      "links": [
+        "http://127.0.0.1:8000/assets/reference-pdfs/083%20-%20LABORATORIUM%20SEBAGAI%20LAYANAN%20TERPADU%20DI%20UNIVERSITAS%20INTEGRASI%20EFISIENSI%20PELAYANAN%20DAN%20MANAJEMEN%20SUMBER%20DAYA.pdf",
+        "http://127.0.0.1:8000/assets/reference-pdfs/055%20-%20Sistem%20Penjadwalan%20Otomatis%20Menggunakan%20Algoritma%20Genetika%20pada%20Lingkungan%20Sekolah.pdf"
+      ],
+      "ok": true
+    },
+    {
+      "slide": 2,
+      "title": "Agenda Presentasi",
+      "chapter": "Pendahuluan",
+      "clickTarget": ".slide.active .subdesc",
+      "clickedText": "Alur presentasi bergerak dari masalah praktikum, landasan teori, metodologi, hasil, hingga penutup secara runtut. Struktur ini menempatkan kontribusi penelitian sejak awal agar ara",
+      "context": "Agenda menjadi peta alur presentasi dari masalah penelitian sampai kesimpulan dan sesi tanya jawab. Item terpilih menunjukkan posisi pembahasan dalam struktur skripsi.",
+      "refs": [
+        "(Yazid, 2025)",
+        "(Pratama, 2025)",
+        "(Yazid, 2025)",
+        "(Pratama, 2025)"
+      ],
+      "pages": [
+        "Slide 02 · Hal. 7",
+        "Slide 02 · Hal. 1"
+      ],
+      "previewTitles": [
+        "LABORATORIUM SEBAGAI LAYANAN TERPADU DI UNIVERSITAS – INTEGRASI EFISIENSI PELAYANAN DAN MANAJEMEN SUMBER DAYA",
+        "Sistem Penjadwalan Otomatis Menggunakan Algoritma Genetika pada Lingkungan Sekolah"
+      ],
+      "links": [
+        "http://127.0.0.1:8000/assets/reference-pdfs/083%20-%20LABORATORIUM%20SEBAGAI%20LAYANAN%20TERPADU%20DI%20UNIVERSITAS%20INTEGRASI%20EFISIENSI%20PELAYANAN%20DAN%20MANAJEMEN%20SUMBER%20DAYA.pdf",
+        "http://127.0.0.1:8000/assets/reference-pdfs/055%20-%20Sistem%20Penjadwalan%20Otomatis%20Menggunakan%20Algoritma%20Genetika%20pada%20Lingkungan%20Sekolah.pdf"
+      ],
+      "ok": true
+    },
+    {
+      "slide": 3,
+      "title": "BAB I - Pendahuluan",
+      "chapter": "Pendahuluan",
+      "clickTarget": ".slide.active .subdesc",
+      "clickedText": "Masalah praktikum muncul sebagai persoalan optimasi karena ruang, waktu, peserta, durasi, asisten, dan jadwal mata kuliah tatap muka/teori harus dipadukan dalam satu jadwal yang la",
+      "context": "Dalam skripsi, konflik ruang tatap muka berarti jadwal mata praktikum bertabrakan dengan jadwal mata kuliah teori. Konflik ini dicatat sebagai pelanggaran dengan penalti menengah hingga tinggi karena mengganggu kelayakan jadwal.",
+      "refs": [
+        "(Yazid, 2025)",
+        "(Pratama, 2025)",
+        "(Yazid, 2025)",
+        "(Pratama, 2025)"
+      ],
+      "pages": [
+        "Slide 03 · Hal. 7",
+        "Slide 03 · Hal. 1"
+      ],
+      "previewTitles": [
+        "LABORATORIUM SEBAGAI LAYANAN TERPADU DI UNIVERSITAS – INTEGRASI EFISIENSI PELAYANAN DAN MANAJEMEN SUMBER DAYA",
+        "Sistem Penjadwalan Otomatis Menggunakan Algoritma Genetika pada Lingkungan Sekolah"
+      ],
+      "links": [
+        "http://127.0.0.1:8000/assets/reference-pdfs/083%20-%20LABORATORIUM%20SEBAGAI%20LAYANAN%20TERPADU%20DI%20UNIVERSITAS%20INTEGRASI%20EFISIENSI%20PELAYANAN%20DAN%20MANAJEMEN%20SUMBER%20DAYA.pdf",
+        "http://127.0.0.1:8000/assets/reference-pdfs/055%20-%20Sistem%20Penjadwalan%20Otomatis%20Menggunakan%20Algoritma%20Genetika%20pada%20Lingkungan%20Sekolah.pdf"
+      ],
+      "ok": true
+    },
+    {
+      "slide": 4,
+      "title": "Pendahuluan",
+      "chapter": "Pendahuluan",
+      "clickTarget": ".slide.active .subdesc",
+      "clickedText": "Praktikum FST tidak selalu mengikuti pola kuliah reguler karena durasi, ruang, dan ketersediaan asisten berbeda antar program studi. Penjadwalan perlu diperlakukan sebagai persoala",
+      "context": "Dalam skripsi, konflik ruang tatap muka berarti jadwal mata praktikum bertabrakan dengan jadwal mata kuliah teori. Konflik ini dicatat sebagai pelanggaran dengan penalti menengah hingga tinggi karena mengganggu kelayakan jadwal.",
+      "refs": [
+        "(Yazid, 2025)",
+        "(Pratama, 2025)",
+        "(Yazid, 2025)",
+        "(Pratama, 2025)"
+      ],
+      "pages": [
+        "Slide 04 · Hal. 7",
+        "Slide 04 · Hal. 1"
+      ],
+      "previewTitles": [
+        "LABORATORIUM SEBAGAI LAYANAN TERPADU DI UNIVERSITAS – INTEGRASI EFISIENSI PELAYANAN DAN MANAJEMEN SUMBER DAYA",
+        "Sistem Penjadwalan Otomatis Menggunakan Algoritma Genetika pada Lingkungan Sekolah"
+      ],
+      "links": [
+        "http://127.0.0.1:8000/assets/reference-pdfs/083%20-%20LABORATORIUM%20SEBAGAI%20LAYANAN%20TERPADU%20DI%20UNIVERSITAS%20INTEGRASI%20EFISIENSI%20PELAYANAN%20DAN%20MANAJEMEN%20SUMBER%20DAYA.pdf",
+        "http://127.0.0.1:8000/assets/reference-pdfs/055%20-%20Sistem%20Penjadwalan%20Otomatis%20Menggunakan%20Algoritma%20Genetika%20pada%20Lingkungan%20Sekolah.pdf"
+      ],
+      "ok": true
+    },
+    {
+      "slide": 5,
+      "title": "Masalah Penjadwalan Praktikum",
+      "chapter": "Pendahuluan",
+      "clickTarget": ".slide.active .subdesc",
+      "clickedText": "Masalah penjadwalan praktikum muncul dari keterbatasan ruang laboratorium, slot waktu, kapasitas, kelompok kelas, asisten, dan jadwal mata kuliah tatap muka/teori. Jika komponen te",
+      "context": "Dalam skripsi, konflik ruang tatap muka berarti jadwal mata praktikum bertabrakan dengan jadwal mata kuliah teori. Konflik ini dicatat sebagai pelanggaran dengan penalti menengah hingga tinggi karena mengganggu kelayakan jadwal.",
+      "refs": [
+        "(Yazid, 2025)",
+        "(Pratama, 2025)",
+        "(Yazid, 2025)",
+        "(Pratama, 2025)"
+      ],
+      "pages": [
+        "Slide 05 · Hal. 7",
+        "Slide 05 · Hal. 1"
+      ],
+      "previewTitles": [
+        "LABORATORIUM SEBAGAI LAYANAN TERPADU DI UNIVERSITAS – INTEGRASI EFISIENSI PELAYANAN DAN MANAJEMEN SUMBER DAYA",
+        "Sistem Penjadwalan Otomatis Menggunakan Algoritma Genetika pada Lingkungan Sekolah"
+      ],
+      "links": [
+        "http://127.0.0.1:8000/assets/reference-pdfs/083%20-%20LABORATORIUM%20SEBAGAI%20LAYANAN%20TERPADU%20DI%20UNIVERSITAS%20INTEGRASI%20EFISIENSI%20PELAYANAN%20DAN%20MANAJEMEN%20SUMBER%20DAYA.pdf",
+        "http://127.0.0.1:8000/assets/reference-pdfs/055%20-%20Sistem%20Penjadwalan%20Otomatis%20Menggunakan%20Algoritma%20Genetika%20pada%20Lingkungan%20Sekolah.pdf"
+      ],
+      "ok": true
+    },
+    {
+      "slide": 6,
+      "title": "Fokus Masalah Penelitian",
+      "chapter": "Pendahuluan",
+      "clickTarget": ".slide.active .subdesc",
+      "clickedText": "Rumusan masalah dibatasi pada dua fokus utama: bagaimana GA berbasis Fuzzy Logic menyusun jadwal praktikum minim konflik dan bagaimana kontribusi fuzzy dibaca dari parameter evolus",
+      "context": "Dalam skripsi, konflik ruang tatap muka berarti jadwal mata praktikum bertabrakan dengan jadwal mata kuliah teori. Konflik ini dicatat sebagai pelanggaran dengan penalti menengah hingga tinggi karena mengganggu kelayakan jadwal.",
+      "refs": [
+        "(Yazid, 2025)",
+        "(Pratama, 2025)",
+        "(Yazid, 2025)",
+        "(Pratama, 2025)"
+      ],
+      "pages": [
+        "Slide 06 · Hal. 7",
+        "Slide 06 · Hal. 5"
+      ],
+      "previewTitles": [
+        "LABORATORIUM SEBAGAI LAYANAN TERPADU DI UNIVERSITAS – INTEGRASI EFISIENSI PELAYANAN DAN MANAJEMEN SUMBER DAYA",
+        "Sistem Penjadwalan Otomatis Menggunakan Algoritma Genetika pada Lingkungan Sekolah"
+      ],
+      "links": [
+        "http://127.0.0.1:8000/assets/reference-pdfs/083%20-%20LABORATORIUM%20SEBAGAI%20LAYANAN%20TERPADU%20DI%20UNIVERSITAS%20INTEGRASI%20EFISIENSI%20PELAYANAN%20DAN%20MANAJEMEN%20SUMBER%20DAYA.pdf",
+        "http://127.0.0.1:8000/assets/reference-pdfs/055%20-%20Sistem%20Penjadwalan%20Otomatis%20Menggunakan%20Algoritma%20Genetika%20pada%20Lingkungan%20Sekolah.pdf"
+      ],
+      "ok": true
+    },
+    {
+      "slide": 7,
+      "title": "Arah Penelitian",
+      "chapter": "Pendahuluan",
+      "clickTarget": ".slide.active .subdesc",
+      "clickedText": "Arah penelitian menyeimbangkan tujuan praktis dan akademik: sistem harus membantu pengelola laboratorium sekaligus menunjukkan penerapan algoritma optimasi pada penjadwalan. Manfaa",
+      "context": "Fitness function mengubah konflik jadwal menjadi nilai evaluasi. Konflik ruang, asisten, kelompok, serta benturan mata praktikum dengan mata kuliah tatap muka/teori menaikkan penalty; semakin kecil penalty, semakin tinggi kualitas kandidat jadwal.",
+      "refs": [
+        "(Yazid, 2025)",
+        "(Noptrina et al., 2024)",
+        "(Yazid, 2025)",
+        "(Noptrina et al., 2024)"
+      ],
+      "pages": [
+        "Slide 07 · Hal. 9",
+        "Slide 07 · Hal. 2"
+      ],
+      "previewTitles": [
+        "LABORATORIUM SEBAGAI LAYANAN TERPADU DI UNIVERSITAS – INTEGRASI EFISIENSI PELAYANAN DAN MANAJEMEN SUMBER DAYA",
+        "PERANCANGAN SISTEM PENJADWALAN PRAKTIKUM MENGGUNAKAN ALGORITMA FIFO (FIRST IN FIRST OUT) BERBASIS WEBSITE"
+      ],
+      "links": [
+        "http://127.0.0.1:8000/assets/reference-pdfs/083%20-%20LABORATORIUM%20SEBAGAI%20LAYANAN%20TERPADU%20DI%20UNIVERSITAS%20INTEGRASI%20EFISIENSI%20PELAYANAN%20DAN%20MANAJEMEN%20SUMBER%20DAYA.pdf",
+        "http://127.0.0.1:8000/assets/reference-pdfs/048%20-%20PERANCANGAN%20SISTEM%20PENJADWALAN%20PRAKTIKUM%20MENGGUNAKAN%20ALGORITMA%20FIFO%20(FIRST%20IN%20FIRST%20OUT)%20BERBASIS%20WEBSITE.pdf"
+      ],
+      "ok": true
+    },
+    {
+      "slide": 8,
+      "title": "Kontribusi Penelitian",
+      "chapter": "Pendahuluan",
+      "clickTarget": ".slide.active .subdesc",
+      "clickedText": "Skripsi ini tidak hanya menerapkan algoritma, tetapi juga membangun representasi jadwal, mekanisme adaptasi parameter, dan antarmuka evaluasi. Keempat kontribusi tersebut menjadi p",
+      "context": "Dalam skripsi, satu kromosom merepresentasikan satu kandidat jadwal lengkap. Setiap gen menyimpan satu sesi praktikum beserta atribut mata praktikum, prodi, semester, peserta, ruang, hari, waktu, kelompok, dan asisten.",
+      "refs": [
+        "(Triyono & Kusrini, 2024)",
+        "(Azam et al., 2020)",
+        "(Triyono & Kusrini, 2024)",
+        "(Azam et al., 2020)"
+      ],
+      "pages": [
+        "Slide 08 · Hal. 2",
+        "Slide 08 · Hal. 6"
+      ],
+      "previewTitles": [
+        "Algoritma Genetika dalam Penjadwalan Mata Kuliah: Eksplorasi Metode Crossover, Mutasi, dan Seleksi Terbaik",
+        "Fuzzy Type-1 Triangular Membership Function Approximation Using Fuzzy C-Means"
+      ],
+      "links": [
+        "http://127.0.0.1:8000/assets/reference-pdfs/077%20-%20Algoritma%20Genetika%20dalam%20Penjadwalan%20Mata%20Kuliah%20Eksplorasi%20Metode%20Crossover%2C%20Mutasi%2C%20dan%20Seleksi%20Terbaik.pdf",
+        "http://127.0.0.1:8000/assets/reference-pdfs/011%20-%20Fuzzy%20Type-1%20Triangular%20Membership%20Function%20Approximation%20Using%20Fuzzy%20C-Means.pdf"
+      ],
+      "ok": true
+    },
+    {
+      "slide": 9,
+      "title": "BAB II - Tinjauan Pustaka",
+      "chapter": "Tinjauan",
+      "clickTarget": ".slide.active .subdesc",
+      "clickedText": "Konsep penjadwalan, Algoritma Genetika, dan Fuzzy Logic langsung dipakai sebagai dasar sistem. Teori tersebut menjadi landasan representasi solusi, operator evolusi, dan controller",
+      "context": "Fuzzy Logic dipakai sebagai pengendali adaptif parameter GA. Crossover rate membaca diversity dan stagnansi hasil crossover untuk mengatur ruang eksplorasi; mutation rate membaca pergerakan skor fitness dari iterasi sebelumnya agar mutasi mengikuti faktor pertumbuhan fitness.",
+      "refs": [
+        "(Syahputra et al., 2024)",
+        "(Triyono & Kusrini, 2024)",
+        "(Syahputra et al., 2024)",
+        "(Triyono & Kusrini, 2024)"
+      ],
+      "pages": [
+        "Slide 09 · Hal. 13",
+        "Slide 09 · Hal. 1"
+      ],
+      "previewTitles": [
+        "Penerapan Algoritma Genetika dalam Sistem Penjadwalan Mata Pelajaran di SD Islam Terpadu Darussalam",
+        "Algoritma Genetika dalam Penjadwalan Mata Kuliah: Eksplorasi Metode Crossover, Mutasi, dan Seleksi Terbaik"
+      ],
+      "links": [
+        "http://127.0.0.1:8000/assets/reference-pdfs/071%20-%20Penerapan%20Algoritma%20Genetika%20dalam%20Sistem%20Penjadwalan%20Mata%20Pelajaran%20di%20SD%20Islam%20Terpadu%20Darussalam.pdf",
+        "http://127.0.0.1:8000/assets/reference-pdfs/077%20-%20Algoritma%20Genetika%20dalam%20Penjadwalan%20Mata%20Kuliah%20Eksplorasi%20Metode%20Crossover%2C%20Mutasi%2C%20dan%20Seleksi%20Terbaik.pdf"
+      ],
+      "ok": true
+    },
+    {
+      "slide": 10,
+      "title": "Tinjauan Pustaka dan Algoritma Penjadwalan",
+      "chapter": "Tinjauan",
+      "clickTarget": ".slide.active .subdesc",
+      "clickedText": "Penjadwalan adalah proses mengalokasikan sumber daya terbatas dalam waktu tertentu agar aktivitas berjalan teratur. Dalam penelitian ini, konsep penjadwalan menjadi fondasi karena ",
+      "context": "Konteks ini diambil dari struktur skripsi: penjadwalan praktikum diperlakukan sebagai masalah optimasi karena ruang, waktu, peserta, durasi, dan asisten harus dipadukan secara layak.",
+      "refs": [
+        "(Syahputra et al., 2024)",
+        "(Noptrina et al., 2024)",
+        "(Syahputra et al., 2024)",
+        "(Noptrina et al., 2024)"
+      ],
+      "pages": [
+        "Slide 10 · Hal. 2",
+        "Slide 10 · Hal. 2"
+      ],
+      "previewTitles": [
+        "Penerapan Algoritma Genetika dalam Sistem Penjadwalan Mata Pelajaran di SD Islam Terpadu Darussalam",
+        "PERANCANGAN SISTEM PENJADWALAN PRAKTIKUM MENGGUNAKAN ALGORITMA FIFO (FIRST IN FIRST OUT) BERBASIS WEBSITE"
+      ],
+      "links": [
+        "http://127.0.0.1:8000/assets/reference-pdfs/071%20-%20Penerapan%20Algoritma%20Genetika%20dalam%20Sistem%20Penjadwalan%20Mata%20Pelajaran%20di%20SD%20Islam%20Terpadu%20Darussalam.pdf",
+        "http://127.0.0.1:8000/assets/reference-pdfs/048%20-%20PERANCANGAN%20SISTEM%20PENJADWALAN%20PRAKTIKUM%20MENGGUNAKAN%20ALGORITMA%20FIFO%20(FIRST%20IN%20FIRST%20OUT)%20BERBASIS%20WEBSITE.pdf"
+      ],
+      "ok": true
+    },
+    {
+      "slide": 11,
+      "title": "Algoritma Genetika",
+      "chapter": "Tinjauan",
+      "clickTarget": ".slide.active .subdesc",
+      "clickedText": "Algoritma Genetika adalah metode komputasi evolusioner yang meniru seleksi alam melalui populasi, fitness, seleksi, crossover, dan mutasi. Metode ini relevan untuk penjadwalan kare",
+      "context": "Algoritma Genetika dipakai sebagai metode pencarian kombinasi jadwal. Populasi, fitness, seleksi, crossover, dan mutasi membantu sistem menjelajahi banyak kandidat jadwal secara bertahap.",
+      "refs": [
+        "(Zhou et al., 2020)",
+        "(Triyono & Kusrini, 2024)",
+        "(Zhou et al., 2020)",
+        "(Triyono & Kusrini, 2024)"
+      ],
+      "pages": [
+        "Slide 11 · Hal. 2",
+        "Slide 11 · Hal. 2"
+      ],
+      "previewTitles": [
+        "An improved genetic algorithm using greedy strategy toward task scheduling optimization in cloud environments",
+        "Algoritma Genetika dalam Penjadwalan Mata Kuliah: Eksplorasi Metode Crossover, Mutasi, dan Seleksi Terbaik"
+      ],
+      "links": [
+        "http://127.0.0.1:8000/assets/reference-pdfs/088%20-%20An%20improved%20genetic%20algorithm%20using%20greedy%20strategy%20toward%20task%20scheduling%20optimization%20in%20cloud%20environments.pdf",
+        "http://127.0.0.1:8000/assets/reference-pdfs/077%20-%20Algoritma%20Genetika%20dalam%20Penjadwalan%20Mata%20Kuliah%20Eksplorasi%20Metode%20Crossover%2C%20Mutasi%2C%20dan%20Seleksi%20Terbaik.pdf"
+      ],
+      "ok": true
+    },
+    {
+      "slide": 12,
+      "title": "Kromosom",
+      "chapter": "Tinjauan",
+      "clickTarget": ".slide.active .subdesc",
+      "clickedText": "Kromosom merepresentasikan satu kandidat jadwal lengkap yang terdiri atas rangkaian gen. Pada penelitian ini, setiap gen menyimpan satu sesi praktikum beserta atribut mata praktiku",
+      "context": "Dataset praktikum FST memuat skala penjadwalan yang besar: program studi, mata praktikum, kelas, peserta, ruang, serta kebutuhan asisten harus dipadukan dalam kandidat jadwal yang layak.",
+      "refs": [
+        "(Triyono & Kusrini, 2024)",
+        "(Zhou et al., 2020)",
+        "(Triyono & Kusrini, 2024)",
+        "(Zhou et al., 2020)"
+      ],
+      "pages": [
+        "Slide 12 · Hal. 2",
+        "Slide 12 · Hal. 1"
+      ],
+      "previewTitles": [
+        "Algoritma Genetika dalam Penjadwalan Mata Kuliah: Eksplorasi Metode Crossover, Mutasi, dan Seleksi Terbaik",
+        "An improved genetic algorithm using greedy strategy toward task scheduling optimization in cloud environments"
+      ],
+      "links": [
+        "http://127.0.0.1:8000/assets/reference-pdfs/077%20-%20Algoritma%20Genetika%20dalam%20Penjadwalan%20Mata%20Kuliah%20Eksplorasi%20Metode%20Crossover%2C%20Mutasi%2C%20dan%20Seleksi%20Terbaik.pdf",
+        "http://127.0.0.1:8000/assets/reference-pdfs/088%20-%20An%20improved%20genetic%20algorithm%20using%20greedy%20strategy%20toward%20task%20scheduling%20optimization%20in%20cloud%20environments.pdf"
+      ],
+      "ok": true
+    },
+    {
+      "slide": 13,
+      "title": "Pembangkitan Kromosom",
+      "chapter": "Tinjauan",
+      "clickTarget": ".slide.active .subdesc",
+      "clickedText": "Pembangkitan kromosom membentuk populasi awal dari data praktikum, ruangan, slot waktu, dan asisten yang tersedia. Tahap ini dibuat acak tetapi tetap mengikuti batasan sistem, term",
+      "context": "Dalam skripsi, konflik ruang tatap muka berarti jadwal mata praktikum bertabrakan dengan jadwal mata kuliah teori. Konflik ini dicatat sebagai pelanggaran dengan penalti menengah hingga tinggi karena mengganggu kelayakan jadwal.",
+      "refs": [
+        "(Triyono & Kusrini, 2024)",
+        "(Zhou et al., 2020)",
+        "(Triyono & Kusrini, 2024)",
+        "(Zhou et al., 2020)"
+      ],
+      "pages": [
+        "Slide 13 · Hal. 2",
+        "Slide 13 · Hal. 1"
+      ],
+      "previewTitles": [
+        "Algoritma Genetika dalam Penjadwalan Mata Kuliah: Eksplorasi Metode Crossover, Mutasi, dan Seleksi Terbaik",
+        "An improved genetic algorithm using greedy strategy toward task scheduling optimization in cloud environments"
+      ],
+      "links": [
+        "http://127.0.0.1:8000/assets/reference-pdfs/077%20-%20Algoritma%20Genetika%20dalam%20Penjadwalan%20Mata%20Kuliah%20Eksplorasi%20Metode%20Crossover%2C%20Mutasi%2C%20dan%20Seleksi%20Terbaik.pdf",
+        "http://127.0.0.1:8000/assets/reference-pdfs/088%20-%20An%20improved%20genetic%20algorithm%20using%20greedy%20strategy%20toward%20task%20scheduling%20optimization%20in%20cloud%20environments.pdf"
+      ],
+      "ok": true
+    },
+    {
+      "slide": 14,
+      "title": "Fitness Function",
+      "chapter": "Tinjauan",
+      "clickTarget": ".slide.active .subdesc",
+      "clickedText": "Fitness Function mengubah kualitas jadwal menjadi nilai kuantitatif berdasarkan jumlah penalty konflik. Pelanggaran mencakup ruang, kelompok, asisten, serta konflik ruang tatap muk",
+      "context": "Dalam skripsi, konflik ruang tatap muka berarti jadwal mata praktikum bertabrakan dengan jadwal mata kuliah teori. Konflik ini dicatat sebagai pelanggaran dengan penalti menengah hingga tinggi karena mengganggu kelayakan jadwal.",
+      "refs": [
+        "(Triyono & Kusrini, 2024)",
+        "(Pytel, 2025)",
+        "(Triyono & Kusrini, 2024)",
+        "(Pytel, 2025)"
+      ],
+      "pages": [
+        "Slide 14 · Hal. 20",
+        "Slide 14 · Hal. 4"
+      ],
+      "previewTitles": [
+        "Algoritma Genetika dalam Penjadwalan Mata Kuliah: Eksplorasi Metode Crossover, Mutasi, dan Seleksi Terbaik",
+        "Fuzzy logic applied to tunning mutation size in evolutionary algorithms"
+      ],
+      "links": [
+        "http://127.0.0.1:8000/assets/reference-pdfs/077%20-%20Algoritma%20Genetika%20dalam%20Penjadwalan%20Mata%20Kuliah%20Eksplorasi%20Metode%20Crossover%2C%20Mutasi%2C%20dan%20Seleksi%20Terbaik.pdf",
+        "http://127.0.0.1:8000/assets/reference-pdfs/056%20-%20Fuzzy%20logic%20applied%20to%20tunning%20mutation%20size%20in%20evolutionary%20algorithms.pdf"
+      ],
+      "ok": true
+    },
+    {
+      "slide": 15,
+      "title": "Crossover",
+      "chapter": "Tinjauan",
+      "clickTarget": ".slide.active .subdesc",
+      "clickedText": "Crossover adalah operator rekombinasi yang menukar sebagian struktur dua parent untuk menghasilkan offspring. Dalam penjadwalan praktikum, operator ini harus menjaga struktur gen a",
+      "context": "Dataset praktikum FST memuat skala penjadwalan yang besar: program studi, mata praktikum, kelas, peserta, ruang, serta kebutuhan asisten harus dipadukan dalam kandidat jadwal yang layak.",
+      "refs": [
+        "(Xue et al., 2021)",
+        "(Han & Xiao, 2022)",
+        "(Xue et al., 2021)",
+        "(Han & Xiao, 2022)"
+      ],
+      "pages": [
+        "Slide 15 · Hal. 2",
+        "Slide 15 · Hal. 4"
+      ],
+      "previewTitles": [
+        "Adaptive crossover operator based multi-objective binary genetic algorithm for feature selection in classification[Formula presented]",
+        "An improved adaptive genetic algorithm"
+      ],
+      "links": [
+        "http://127.0.0.1:8000/assets/reference-pdfs/082%20-%20Adaptive%20crossover%20operator%20based%20multi-objective%20binary%20genetic%20algorithm%20for%20feature%20selection%20in%20classification%20Formula%20presented.pdf",
+        "http://127.0.0.1:8000/assets/reference-pdfs/027%20-%20An%20improved%20adaptive%20genetic%20algorithm.pdf"
+      ],
+      "ok": true
+    },
+    {
+      "slide": 16,
+      "title": "Mutation",
+      "chapter": "Tinjauan",
+      "clickTarget": ".slide.active .subdesc",
+      "clickedText": "Mutasi memberi perubahan kecil pada gen agar populasi tidak cepat homogen dan tidak terjebak pada solusi lokal. Pada konteks jadwal, perubahan dapat berupa ruang, hari, atau waktu ",
+      "context": "Dalam skripsi, satu kromosom merepresentasikan satu kandidat jadwal lengkap. Setiap gen menyimpan satu sesi praktikum beserta atribut mata praktikum, prodi, semester, peserta, ruang, hari, waktu, kelompok, dan asisten.",
+      "refs": [
+        "(Pytel, 2025)",
+        "(Dockhorn & Lucas, 2022)",
+        "(Pytel, 2025)",
+        "(Dockhorn & Lucas, 2022)"
+      ],
+      "pages": [
+        "Slide 16 · Hal. 1",
+        "Slide 16 · Hal. 2"
+      ],
+      "previewTitles": [
+        "Fuzzy logic applied to tunning mutation size in evolutionary algorithms",
+        "Choosing Representation, Mutation, and Crossover in Genetic Algorithms"
+      ],
+      "links": [
+        "http://127.0.0.1:8000/assets/reference-pdfs/056%20-%20Fuzzy%20logic%20applied%20to%20tunning%20mutation%20size%20in%20evolutionary%20algorithms.pdf",
+        "http://127.0.0.1:8000/assets/reference-pdfs/021%20-%20Choosing%20Representation%2C%20Mutation%2C%20and%20Crossover%20in%20Genetic%20Algorithms.pdf"
+      ],
+      "ok": true
+    },
+    {
+      "slide": 17,
+      "title": "Penjadwalan Akademik",
+      "chapter": "Tinjauan",
+      "clickTarget": ".slide.active .subdesc",
+      "clickedText": "Penjadwalan akademik tidak hanya mengalokasikan waktu, tetapi juga mengatur ruang, kapasitas, dosen atau asisten, serta kebutuhan layanan pendidikan. Pendekatan berbasis sistem mem",
+      "context": "Konteks ini diambil dari struktur skripsi: penjadwalan praktikum diperlakukan sebagai masalah optimasi karena ruang, waktu, peserta, durasi, dan asisten harus dipadukan secara layak.",
+      "refs": [
+        "(Syahputra et al., 2024)",
+        "(Irfan et al., 2022)",
+        "(Syahputra et al., 2024)",
+        "(Irfan et al., 2022)"
+      ],
+      "pages": [
+        "Slide 17 · Hal. 2",
+        "Slide 17 · Hal. 2"
+      ],
+      "previewTitles": [
+        "Penerapan Algoritma Genetika dalam Sistem Penjadwalan Mata Pelajaran di SD Islam Terpadu Darussalam",
+        "Penerapan Algoritma Genetika untuk Penjadwalan Mata Pelajaran di SD Taman Cahya Pematangsiantar"
+      ],
+      "links": [
+        "http://127.0.0.1:8000/assets/reference-pdfs/071%20-%20Penerapan%20Algoritma%20Genetika%20dalam%20Sistem%20Penjadwalan%20Mata%20Pelajaran%20di%20SD%20Islam%20Terpadu%20Darussalam.pdf",
+        "http://127.0.0.1:8000/assets/reference-pdfs/032%20-%20Penerapan%20Algoritma%20Genetika%20untuk%20Penjadwalan%20Mata%20Pelajaran%20di%20SD%20Taman%20Cahya%20Pematangsiantar.pdf"
+      ],
+      "ok": true
+    },
+    {
+      "slide": 18,
+      "title": "Penerapan AG dalam Penjadwalan",
+      "chapter": "Tinjauan",
+      "clickTarget": ".slide.active .subdesc",
+      "clickedText": "Penerapan AG dalam penjadwalan menunjukkan bahwa mekanisme evolusioner dapat mengevaluasi banyak kombinasi jadwal dan memperbaiki solusi secara bertahap. Studi terdahulu menjadi da",
+      "context": "Fitness function mengubah konflik jadwal menjadi nilai evaluasi. Konflik ruang, asisten, kelompok, serta benturan mata praktikum dengan mata kuliah tatap muka/teori menaikkan penalty; semakin kecil penalty, semakin tinggi kualitas kandidat jadwal.",
+      "refs": [
+        "(Irfan et al., 2022)",
+        "(Syahputra et al., 2024)",
+        "(Irfan et al., 2022)",
+        "(Syahputra et al., 2024)"
+      ],
+      "pages": [
+        "Slide 18 · Hal. 2",
+        "Slide 18 · Hal. 13"
+      ],
+      "previewTitles": [
+        "Penerapan Algoritma Genetika untuk Penjadwalan Mata Pelajaran di SD Taman Cahya Pematangsiantar",
+        "Penerapan Algoritma Genetika dalam Sistem Penjadwalan Mata Pelajaran di SD Islam Terpadu Darussalam"
+      ],
+      "links": [
+        "http://127.0.0.1:8000/assets/reference-pdfs/032%20-%20Penerapan%20Algoritma%20Genetika%20untuk%20Penjadwalan%20Mata%20Pelajaran%20di%20SD%20Taman%20Cahya%20Pematangsiantar.pdf",
+        "http://127.0.0.1:8000/assets/reference-pdfs/071%20-%20Penerapan%20Algoritma%20Genetika%20dalam%20Sistem%20Penjadwalan%20Mata%20Pelajaran%20di%20SD%20Islam%20Terpadu%20Darussalam.pdf"
+      ],
+      "ok": true
+    },
+    {
+      "slide": 19,
+      "title": "Penjadwalan Laboratorium",
+      "chapter": "Tinjauan",
+      "clickTarget": ".slide.active .subdesc",
+      "clickedText": "Penjadwalan laboratorium memiliki tingkat kesulitan lebih tinggi karena ruangan, alat, kapasitas, durasi sesi, dan ketersediaan asisten tidak selalu seragam. Karena itu, jadwal pra",
+      "context": "Dataset praktikum FST memuat skala penjadwalan yang besar: program studi, mata praktikum, kelas, peserta, ruang, serta kebutuhan asisten harus dipadukan dalam kandidat jadwal yang layak.",
+      "refs": [
+        "(Noptrina et al., 2024)",
+        "(Pratama, 2025)",
+        "(Noptrina et al., 2024)",
+        "(Pratama, 2025)"
+      ],
+      "pages": [
+        "Slide 19 · Hal. 2",
+        "Slide 19 · Hal. 1"
+      ],
+      "previewTitles": [
+        "PERANCANGAN SISTEM PENJADWALAN PRAKTIKUM MENGGUNAKAN ALGORITMA FIFO (FIRST IN FIRST OUT) BERBASIS WEBSITE",
+        "Sistem Penjadwalan Otomatis Menggunakan Algoritma Genetika pada Lingkungan Sekolah"
+      ],
+      "links": [
+        "http://127.0.0.1:8000/assets/reference-pdfs/048%20-%20PERANCANGAN%20SISTEM%20PENJADWALAN%20PRAKTIKUM%20MENGGUNAKAN%20ALGORITMA%20FIFO%20(FIRST%20IN%20FIRST%20OUT)%20BERBASIS%20WEBSITE.pdf",
+        "http://127.0.0.1:8000/assets/reference-pdfs/055%20-%20Sistem%20Penjadwalan%20Otomatis%20Menggunakan%20Algoritma%20Genetika%20pada%20Lingkungan%20Sekolah.pdf"
+      ],
+      "ok": true
+    },
+    {
+      "slide": 20,
+      "title": "Fuzzy Logic dan Variabel Linguistik",
+      "chapter": "Tinjauan",
+      "clickTarget": ".slide.active .subdesc",
+      "clickedText": "Fuzzy Logic memetakan nilai crisp menjadi derajat keanggotaan sehingga kondisi seperti rendah, sedang, dan tinggi dapat diproses melalui aturan linguistik. Dalam penelitian ini, fu",
+      "context": "Fuzzy Logic dipakai sebagai pengendali adaptif parameter GA. Crossover rate membaca diversity dan stagnansi hasil crossover untuk mengatur ruang eksplorasi; mutation rate membaca pergerakan skor fitness dari iterasi sebelumnya agar mutasi mengikuti faktor pertumbuhan fitness.",
+      "refs": [
+        "(Alkhayyat et al., 2022)",
+        "(Cao et al., 2024)",
+        "(Alkhayyat et al., 2022)",
+        "(Cao et al., 2024)"
+      ],
+      "pages": [
+        "Slide 20 · Hal. 1",
+        "Slide 20 · Hal. 2"
+      ],
+      "previewTitles": [
+        "Fuzzy logic, genetic algorithms, and artificial neural networks applied to cognitive radio networks: A review",
+        "Fuzzy inference system with interpretable fuzzy rules: Advancing explainable artificial intelligence for disease diagnosis—A comprehensive review"
+      ],
+      "links": [
+        "http://127.0.0.1:8000/assets/reference-pdfs/005%20-%20Fuzzy%20logic%2C%20genetic%20algorithms%2C%20and%20artificial%20neural%20networks%20applied%20to%20cognitive%20radio%20networks%20A%20review.pdf",
+        "http://127.0.0.1:8000/assets/reference-pdfs/017%20-%20Fuzzy%20inference%20system%20with%20interpretable%20fuzzy%20rules%20Advancing%20explainable%20artificial%20intelligence%20for%20disease%20diagnosis%20A%20comprehensive%20review.pdf"
+      ],
+      "ok": true
+    },
+    {
+      "slide": 21,
+      "title": "Optimasi Algoritma Menggunakan Fuzzy Logic",
+      "chapter": "Tinjauan",
+      "clickTarget": ".slide.active .subdesc",
+      "clickedText": "Fuzzy Logic membuat GA tidak sepenuhnya bergantung pada parameter statis. Nilai crossover rate dapat membaca diversity dan stagnansi, sedangkan mutation rate membaca pergerakan fit",
+      "context": "Fuzzy Logic dipakai sebagai pengendali adaptif parameter GA. Crossover rate membaca diversity dan stagnansi hasil crossover untuk mengatur ruang eksplorasi; mutation rate membaca pergerakan skor fitness dari iterasi sebelumnya agar mutasi mengikuti faktor pertumbuhan fitness.",
+      "refs": [
+        "(Subburaj & Miruna Joe Amali, 2025)",
+        "(Pytel, 2025)",
+        "(Subburaj & Miruna Joe Amali, 2025)",
+        "(Pytel, 2025)"
+      ],
+      "pages": [
+        "Slide 21 · Hal. 25",
+        "Slide 21 · Hal. 1"
+      ],
+      "previewTitles": [
+        "A fuzzy system based self-adaptive memetic algorithm using population diversity control for evolutionary multi-objective optimization",
+        "Fuzzy logic applied to tunning mutation size in evolutionary algorithms"
+      ],
+      "links": [
+        "http://127.0.0.1:8000/assets/reference-pdfs/068%20-%20A%20fuzzy%20system%20based%20self-adaptive%20memetic%20algorithm%20using%20population%20diversity%20control%20for%20evolutionary%20multi-objective%20optimization.pdf",
+        "http://127.0.0.1:8000/assets/reference-pdfs/056%20-%20Fuzzy%20logic%20applied%20to%20tunning%20mutation%20size%20in%20evolutionary%20algorithms.pdf"
+      ],
+      "ok": true
+    },
+    {
+      "slide": 22,
+      "title": "Evaluasi Kinerja Hybrid Genetic Algorithm",
+      "chapter": "Tinjauan",
+      "clickTarget": ".slide.active .subdesc",
+      "clickedText": "Evaluasi HGA perlu dibaca melalui dua sisi: kualitas solusi akhir dan dinamika proses pencarian. Hasil adaptif tidak otomatis berarti unggul pada semua metrik, sehingga baseline Cl",
+      "context": "Perbandingan hasil digunakan untuk membaca performa Classic GA dan Fuzzy GA. Classic GA lebih kuat pada mayoritas metrik akhir, sedangkan Fuzzy GA membantu membaca stagnansi dan mengatur parameter selama proses evolusi.",
+      "refs": [
+        "(Mahmoudinazlou & Kwon, 2024)",
+        "(Umam et al., 2022)",
+        "(Mahmoudinazlou & Kwon, 2024)",
+        "(Umam et al., 2022)"
+      ],
+      "pages": [
+        "Slide 22 · Hal. 26",
+        "Slide 22 · Hal. 9"
+      ],
+      "previewTitles": [
+        "A hybrid genetic algorithm for the min–max Multiple Traveling Salesman Problem",
+        "A hybrid genetic algorithm and tabu search for minimizing makespan in flow shop scheduling problem"
+      ],
+      "links": [
+        "http://127.0.0.1:8000/assets/reference-pdfs/039%20-%20A%20hybrid%20genetic%20algorithm%20for%20the%20min%20max%20Multiple%20Traveling%20Salesman%20Problem.pdf",
+        "http://127.0.0.1:8000/assets/reference-pdfs/078%20-%20A%20hybrid%20genetic%20algorithm%20and%20tabu%20search%20for%20minimizing%20makespan%20in%20flow%20shop%20scheduling%20problem.pdf"
+      ],
+      "ok": true
+    },
+    {
+      "slide": 23,
+      "title": "Kerangka Pemikiran",
+      "chapter": "Tinjauan",
+      "clickTarget": ".slide.active .subdesc",
+      "clickedText": "Masalah praktikum dihubungkan dengan representasi gen, pembentukan populasi, evaluasi konflik, dan pengendalian parameter adaptif. Data administratif diubah menjadi kandidat jadwal",
+      "context": "Dalam skripsi, satu kromosom merepresentasikan satu kandidat jadwal lengkap. Setiap gen menyimpan satu sesi praktikum beserta atribut mata praktikum, prodi, semester, peserta, ruang, hari, waktu, kelompok, dan asisten.",
+      "refs": [
+        "(Pytel, 2025)",
+        "(Movassaghi & Avakh Darestani, 2022)",
+        "(Pytel, 2025)",
+        "(Movassaghi & Avakh Darestani, 2022)"
+      ],
+      "pages": [
+        "Slide 23 · Hal. 4",
+        "Slide 23 · Hal. 5"
+      ],
+      "previewTitles": [
+        "Fuzzy logic applied to tunning mutation size in evolutionary algorithms",
+        "Multiple Cross-docks Scheduling with Multiple Doors using Fuzzy Approach and Metaheuristic Algorithms"
+      ],
+      "links": [
+        "http://127.0.0.1:8000/assets/reference-pdfs/056%20-%20Fuzzy%20logic%20applied%20to%20tunning%20mutation%20size%20in%20evolutionary%20algorithms.pdf",
+        "http://127.0.0.1:8000/assets/reference-pdfs/044%20-%20Multiple%20Cross-docks%20Scheduling%20with%20Multiple%20Doors%20using%20Fuzzy%20Approach%20and%20Metaheuristic%20Algorithms.pdf"
+      ],
+      "ok": true
+    },
+    {
+      "slide": 24,
+      "title": "Penelitian Terdahulu",
+      "chapter": "Tinjauan",
+      "clickTarget": ".slide.active .subdesc",
+      "clickedText": "Penelitian terdahulu menunjukkan bahwa AG dan pendekatan fuzzy dapat digunakan pada penjadwalan kompleks, tetapi konteks FST memerlukan model data dan constraint lokal. Gap penelit",
+      "context": "Fuzzy Logic dipakai sebagai pengendali adaptif parameter GA. Crossover rate membaca diversity dan stagnansi hasil crossover untuk mengatur ruang eksplorasi; mutation rate membaca pergerakan skor fitness dari iterasi sebelumnya agar mutasi mengikuti faktor pertumbuhan fitness.",
+      "refs": [
+        "(Marrouchi et al., 2024)",
+        "(Movassaghi & Avakh Darestani, 2022)",
+        "(Marrouchi et al., 2024)",
+        "(Movassaghi & Avakh Darestani, 2022)"
+      ],
+      "pages": [
+        "Slide 24 · Hal. 7",
+        "Slide 24 · Hal. 1"
+      ],
+      "previewTitles": [
+        "Optimizing Unit Scheduling with Fuzzy Logic: A Strategic Approach for Efficient Power Network Operations",
+        "Multiple Cross-docks Scheduling with Multiple Doors using Fuzzy Approach and Metaheuristic Algorithms"
+      ],
+      "links": [
+        "http://127.0.0.1:8000/assets/reference-pdfs/042%20-%20Optimizing%20Unit%20Scheduling%20with%20Fuzzy%20Logic%20A%20Strategic%20Approach%20for%20Efficient%20Power%20Network%20Operations.pdf",
+        "http://127.0.0.1:8000/assets/reference-pdfs/044%20-%20Multiple%20Cross-docks%20Scheduling%20with%20Multiple%20Doors%20using%20Fuzzy%20Approach%20and%20Metaheuristic%20Algorithms.pdf"
+      ],
+      "ok": true
+    },
+    {
+      "slide": 25,
+      "title": "BAB III - Metodologi",
+      "chapter": "Metodologi",
+      "clickTarget": ".slide.active .subdesc",
+      "clickedText": "Data praktikum diubah menjadi struktur genetik, dievaluasi dengan fitness, lalu diproses oleh operator GA dan controller fuzzy. Alur ini menjadi jembatan dari data akademik ke jadw",
+      "context": "Fuzzy Logic diposisikan sebagai pengendali adaptif, bukan pengganti GA. Nilai linguistik dan rule base membantu mengubah kondisi proses pencarian menjadi pengaturan parameter yang lebih responsif.",
+      "refs": [
+        "(Azam et al., 2020)",
+        "(Marrouchi et al., 2024)",
+        "(Azam et al., 2020)",
+        "(Marrouchi et al., 2024)"
+      ],
+      "pages": [
+        "Slide 25 · Hal. 6",
+        "Slide 25 · Hal. 7"
+      ],
+      "previewTitles": [
+        "Fuzzy Type-1 Triangular Membership Function Approximation Using Fuzzy C-Means",
+        "Optimizing Unit Scheduling with Fuzzy Logic: A Strategic Approach for Efficient Power Network Operations"
+      ],
+      "links": [
+        "http://127.0.0.1:8000/assets/reference-pdfs/011%20-%20Fuzzy%20Type-1%20Triangular%20Membership%20Function%20Approximation%20Using%20Fuzzy%20C-Means.pdf",
+        "http://127.0.0.1:8000/assets/reference-pdfs/042%20-%20Optimizing%20Unit%20Scheduling%20with%20Fuzzy%20Logic%20A%20Strategic%20Approach%20for%20Efficient%20Power%20Network%20Operations.pdf"
+      ],
+      "ok": true
+    },
+    {
+      "slide": 26,
+      "title": "Metodologi Penelitian dan Pengumpulan Data",
+      "chapter": "Metodologi",
+      "clickTarget": ".slide.active .subdesc",
+      "clickedText": "Metodologi penelitian disusun sebagai alur data-ke-optimasi: data dikumpulkan, direpresentasikan sebagai gen dan kromosom, lalu diproses melalui GA dan controller fuzzy. Hasilnya d",
+      "context": "Dataset praktikum FST memuat skala penjadwalan yang besar: program studi, mata praktikum, kelas, peserta, ruang, serta kebutuhan asisten harus dipadukan dalam kandidat jadwal yang layak.",
+      "refs": [
+        "(Azam et al., 2020)",
+        "(Marrouchi et al., 2024)",
+        "(Azam et al., 2020)",
+        "(Marrouchi et al., 2024)"
+      ],
+      "pages": [
+        "Slide 26 · Hal. 1",
+        "Slide 26 · Hal. 7"
+      ],
+      "previewTitles": [
+        "Fuzzy Type-1 Triangular Membership Function Approximation Using Fuzzy C-Means",
+        "Optimizing Unit Scheduling with Fuzzy Logic: A Strategic Approach for Efficient Power Network Operations"
+      ],
+      "links": [
+        "http://127.0.0.1:8000/assets/reference-pdfs/011%20-%20Fuzzy%20Type-1%20Triangular%20Membership%20Function%20Approximation%20Using%20Fuzzy%20C-Means.pdf",
+        "http://127.0.0.1:8000/assets/reference-pdfs/042%20-%20Optimizing%20Unit%20Scheduling%20with%20Fuzzy%20Logic%20A%20Strategic%20Approach%20for%20Efficient%20Power%20Network%20Operations.pdf"
+      ],
+      "ok": true
+    },
+    {
+      "slide": 27,
+      "title": "Pipeline Sistem Optimasi",
+      "chapter": "Metodologi",
+      "clickTarget": ".slide.active .subdesc",
+      "clickedText": "Aliran teknis bergerak dari data praktikum sampai laporan GUI. Seeder, fitness evaluation, operator GA, fuzzy controller, dan final schedule bekerja sebagai satu proses terpadu. Ru",
+      "context": "Alur sistem menghubungkan data praktikum, representasi gen, pembentukan populasi, evaluasi fitness, operator GA, controller fuzzy, dan jadwal akhir yang ditampilkan melalui GUI.",
+      "refs": [
+        "(Azam et al., 2020)",
+        "(Han & Xiao, 2022)",
+        "(Azam et al., 2020)",
+        "(Han & Xiao, 2022)"
+      ],
+      "pages": [
+        "Slide 27 · Hal. 6",
+        "Slide 27 · Hal. 4"
+      ],
+      "previewTitles": [
+        "Fuzzy Type-1 Triangular Membership Function Approximation Using Fuzzy C-Means",
+        "An improved adaptive genetic algorithm"
+      ],
+      "links": [
+        "http://127.0.0.1:8000/assets/reference-pdfs/011%20-%20Fuzzy%20Type-1%20Triangular%20Membership%20Function%20Approximation%20Using%20Fuzzy%20C-Means.pdf",
+        "http://127.0.0.1:8000/assets/reference-pdfs/027%20-%20An%20improved%20adaptive%20genetic%20algorithm.pdf"
+      ],
+      "ok": true
+    },
+    {
+      "slide": 28,
+      "title": "Repair dan Post-Processing Konflik",
+      "chapter": "Metodologi",
+      "clickTarget": ".slide.active .subdesc",
+      "clickedText": "Repair dan post-processing digunakan untuk menjaga kandidat jadwal tetap layak setelah operator evolusi menghasilkan perubahan. Tahap ini penting karena crossover dan mutation dapa",
+      "context": "Repair dan Greedy post-processing ditempatkan sebagai tahap penyempurnaan akhir. Jadwal terbaik diperiksa kembali, konflik residual seperti ruang, mata kuliah tatap muka/teori, asisten, dan kelompok dideteksi, lalu kandidat pengganti dicari tanpa menjalankan ulang seluruh optimasi.",
+      "refs": [
+        "(Xue et al., 2021)",
+        "(Dockhorn & Lucas, 2022)",
+        "(Xue et al., 2021)",
+        "(Dockhorn & Lucas, 2022)"
+      ],
+      "pages": [
+        "Slide 28 · Hal. 2",
+        "Slide 28 · Hal. 2"
+      ],
+      "previewTitles": [
+        "Adaptive crossover operator based multi-objective binary genetic algorithm for feature selection in classification[Formula presented]",
+        "Choosing Representation, Mutation, and Crossover in Genetic Algorithms"
+      ],
+      "links": [
+        "http://127.0.0.1:8000/assets/reference-pdfs/082%20-%20Adaptive%20crossover%20operator%20based%20multi-objective%20binary%20genetic%20algorithm%20for%20feature%20selection%20in%20classification%20Formula%20presented.pdf",
+        "http://127.0.0.1:8000/assets/reference-pdfs/021%20-%20Choosing%20Representation%2C%20Mutation%2C%20and%20Crossover%20in%20Genetic%20Algorithms.pdf"
+      ],
+      "ok": true
+    },
+    {
+      "slide": 29,
+      "title": "Representasi Jadwal sebagai Kromosom",
+      "chapter": "Metodologi",
+      "clickTarget": ".slide.active .card:has-text(\"Validasi\")",
+      "clickedText": "override target",
+      "context": "Dalam skripsi, konflik ruang tatap muka berarti jadwal mata praktikum bertabrakan dengan jadwal mata kuliah teori. Konflik ini dicatat sebagai pelanggaran dengan penalti menengah hingga tinggi karena mengganggu kelayakan jadwal.",
+      "refs": [
+        "(Triyono & Kusrini, 2024)",
+        "(Zhou et al., 2020)",
+        "(Triyono & Kusrini, 2024)",
+        "(Zhou et al., 2020)"
+      ],
+      "pages": [
+        "Slide 29 · Hal. 2",
+        "Slide 29 · Hal. 1"
+      ],
+      "previewTitles": [
+        "Algoritma Genetika dalam Penjadwalan Mata Kuliah: Eksplorasi Metode Crossover, Mutasi, dan Seleksi Terbaik",
+        "An improved genetic algorithm using greedy strategy toward task scheduling optimization in cloud environments"
+      ],
+      "links": [
+        "http://127.0.0.1:8000/assets/reference-pdfs/077%20-%20Algoritma%20Genetika%20dalam%20Penjadwalan%20Mata%20Kuliah%20Eksplorasi%20Metode%20Crossover%2C%20Mutasi%2C%20dan%20Seleksi%20Terbaik.pdf",
+        "http://127.0.0.1:8000/assets/reference-pdfs/088%20-%20An%20improved%20genetic%20algorithm%20using%20greedy%20strategy%20toward%20task%20scheduling%20optimization%20in%20cloud%20environments.pdf"
+      ],
+      "ok": true
+    },
+    {
+      "slide": 30,
+      "title": "Inisialisasi Populasi Awal",
+      "chapter": "Metodologi",
+      "clickTarget": ".slide.active .subdesc",
+      "clickedText": "Inisialisasi populasi awal menentukan titik mulai pencarian solusi. Populasi perlu cukup feasible agar dapat dievaluasi, tetapi juga cukup beragam agar proses evolusi tidak cepat s",
+      "context": "Dalam skripsi, satu kromosom merepresentasikan satu kandidat jadwal lengkap. Setiap gen menyimpan satu sesi praktikum beserta atribut mata praktikum, prodi, semester, peserta, ruang, hari, waktu, kelompok, dan asisten.",
+      "refs": [
+        "(Triyono & Kusrini, 2024)",
+        "(Zhou et al., 2020)",
+        "(Triyono & Kusrini, 2024)",
+        "(Zhou et al., 2020)"
+      ],
+      "pages": [
+        "Slide 30 · Hal. 3",
+        "Slide 30 · Hal. 3"
+      ],
+      "previewTitles": [
+        "Algoritma Genetika dalam Penjadwalan Mata Kuliah: Eksplorasi Metode Crossover, Mutasi, dan Seleksi Terbaik",
+        "An improved genetic algorithm using greedy strategy toward task scheduling optimization in cloud environments"
+      ],
+      "links": [
+        "http://127.0.0.1:8000/assets/reference-pdfs/077%20-%20Algoritma%20Genetika%20dalam%20Penjadwalan%20Mata%20Kuliah%20Eksplorasi%20Metode%20Crossover%2C%20Mutasi%2C%20dan%20Seleksi%20Terbaik.pdf",
+        "http://127.0.0.1:8000/assets/reference-pdfs/088%20-%20An%20improved%20genetic%20algorithm%20using%20greedy%20strategy%20toward%20task%20scheduling%20optimization%20in%20cloud%20environments.pdf"
+      ],
+      "ok": true
+    },
+    {
+      "slide": 31,
+      "title": "Penalty sebagai Dasar Kualitas Jadwal",
+      "chapter": "Metodologi",
+      "clickTarget": ".slide.active .card:has-text(\"Konflik mata kuliah teori\")",
+      "clickedText": "override target",
+      "context": "Dalam skripsi, konflik ruang tatap muka berarti jadwal mata praktikum bertabrakan dengan jadwal mata kuliah teori. Konflik ini dicatat sebagai pelanggaran dengan penalti menengah hingga tinggi karena mengganggu kelayakan jadwal.",
+      "refs": [
+        "(Triyono & Kusrini, 2024)",
+        "(Pytel, 2025)",
+        "(Triyono & Kusrini, 2024)",
+        "(Pytel, 2025)"
+      ],
+      "pages": [
+        "Slide 31 · Hal. 20",
+        "Slide 31 · Hal. 4"
+      ],
+      "previewTitles": [
+        "Algoritma Genetika dalam Penjadwalan Mata Kuliah: Eksplorasi Metode Crossover, Mutasi, dan Seleksi Terbaik",
+        "Fuzzy logic applied to tunning mutation size in evolutionary algorithms"
+      ],
+      "links": [
+        "http://127.0.0.1:8000/assets/reference-pdfs/077%20-%20Algoritma%20Genetika%20dalam%20Penjadwalan%20Mata%20Kuliah%20Eksplorasi%20Metode%20Crossover%2C%20Mutasi%2C%20dan%20Seleksi%20Terbaik.pdf",
+        "http://127.0.0.1:8000/assets/reference-pdfs/056%20-%20Fuzzy%20logic%20applied%20to%20tunning%20mutation%20size%20in%20evolutionary%20algorithms.pdf"
+      ],
+      "ok": true
+    },
+    {
+      "slide": 32,
+      "title": "Rekombinasi Jadwal antar Parent",
+      "chapter": "Metodologi",
+      "clickTarget": ".slide.active .subdesc",
+      "clickedText": "Rekombinasi antar parent menghasilkan offspring yang membawa pola jadwal dari dua kandidat solusi. Setelah crossover, repair diperlukan agar struktur jadwal tetap konsisten dengan ",
+      "context": "Repair dan Greedy post-processing ditempatkan sebagai tahap penyempurnaan akhir. Jadwal terbaik diperiksa kembali, konflik residual seperti ruang, mata kuliah tatap muka/teori, asisten, dan kelompok dideteksi, lalu kandidat pengganti dicari tanpa menjalankan ulang seluruh optimasi.",
+      "refs": [
+        "(Xue et al., 2021)",
+        "(Han & Xiao, 2022)",
+        "(Xue et al., 2021)",
+        "(Han & Xiao, 2022)"
+      ],
+      "pages": [
+        "Slide 32 · Hal. 2",
+        "Slide 32 · Hal. 4"
+      ],
+      "previewTitles": [
+        "Adaptive crossover operator based multi-objective binary genetic algorithm for feature selection in classification[Formula presented]",
+        "An improved adaptive genetic algorithm"
+      ],
+      "links": [
+        "http://127.0.0.1:8000/assets/reference-pdfs/082%20-%20Adaptive%20crossover%20operator%20based%20multi-objective%20binary%20genetic%20algorithm%20for%20feature%20selection%20in%20classification%20Formula%20presented.pdf",
+        "http://127.0.0.1:8000/assets/reference-pdfs/027%20-%20An%20improved%20adaptive%20genetic%20algorithm.pdf"
+      ],
+      "ok": true
+    },
+    {
+      "slide": 33,
+      "title": "Menjaga Keragaman Populasi",
+      "chapter": "Metodologi",
+      "clickTarget": ".slide.active .subdesc",
+      "clickedText": "Keragaman populasi menjaga pencarian agar tidak terkunci pada satu area solusi. Mutation rate adaptif membantu membuka variasi baru ketika fitness mulai stagnan atau individu terla",
+      "context": "Fuzzy Logic dipakai sebagai pengendali adaptif parameter GA. Crossover rate membaca diversity dan stagnansi hasil crossover untuk mengatur ruang eksplorasi; mutation rate membaca pergerakan skor fitness dari iterasi sebelumnya agar mutasi mengikuti faktor pertumbuhan fitness.",
+      "refs": [
+        "(Pytel, 2025)",
+        "(Dockhorn & Lucas, 2022)",
+        "(Pytel, 2025)",
+        "(Dockhorn & Lucas, 2022)"
+      ],
+      "pages": [
+        "Slide 33 · Hal. 4",
+        "Slide 33 · Hal. 2"
+      ],
+      "previewTitles": [
+        "Fuzzy logic applied to tunning mutation size in evolutionary algorithms",
+        "Choosing Representation, Mutation, and Crossover in Genetic Algorithms"
+      ],
+      "links": [
+        "http://127.0.0.1:8000/assets/reference-pdfs/056%20-%20Fuzzy%20logic%20applied%20to%20tunning%20mutation%20size%20in%20evolutionary%20algorithms.pdf",
+        "http://127.0.0.1:8000/assets/reference-pdfs/021%20-%20Choosing%20Representation%2C%20Mutation%2C%20and%20Crossover%20in%20Genetic%20Algorithms.pdf"
+      ],
+      "ok": true
+    },
+    {
+      "slide": 34,
+      "title": "Controller Adaptif pada Parameter GA",
+      "chapter": "Metodologi",
+      "clickTarget": ".slide.active .subdesc",
+      "clickedText": "Fuzzy pada crossover mendeteksi diversity dan stagnansi hasil crossover untuk menyesuaikan crossover rate. Keberagaman populasi dipakai sebagai sinyal scaling factor terhadap Cr; k",
+      "context": "Fuzzy Logic dipakai sebagai pengendali adaptif parameter GA. Crossover rate membaca diversity dan stagnansi hasil crossover untuk mengatur ruang eksplorasi; mutation rate membaca pergerakan skor fitness dari iterasi sebelumnya agar mutasi mengikuti faktor pertumbuhan fitness.",
+      "refs": [
+        "(Subburaj & Miruna Joe Amali, 2025)",
+        "(Pytel, 2025)",
+        "(Subburaj & Miruna Joe Amali, 2025)",
+        "(Pytel, 2025)"
+      ],
+      "pages": [
+        "Slide 34 · Hal. 3",
+        "Slide 34 · Hal. 16"
+      ],
+      "previewTitles": [
+        "A fuzzy system based self-adaptive memetic algorithm using population diversity control for evolutionary multi-objective optimization",
+        "Fuzzy logic applied to tunning mutation size in evolutionary algorithms"
+      ],
+      "links": [
+        "http://127.0.0.1:8000/assets/reference-pdfs/068%20-%20A%20fuzzy%20system%20based%20self-adaptive%20memetic%20algorithm%20using%20population%20diversity%20control%20for%20evolutionary%20multi-objective%20optimization.pdf",
+        "http://127.0.0.1:8000/assets/reference-pdfs/056%20-%20Fuzzy%20logic%20applied%20to%20tunning%20mutation%20size%20in%20evolutionary%20algorithms.pdf"
+      ],
+      "ok": true
+    },
+    {
+      "slide": 35,
+      "title": "Fuzzy untuk Mengatur Cr dan Mr",
+      "chapter": "Metodologi",
+      "clickTarget": ".slide.active .subdesc",
+      "clickedText": "Cr mengatur intensitas pertukaran genetik antar parent dengan membaca diversity dan stagnansi hasil crossover. Mr berbeda karena memakai pergerakan skor fitness dari iterasi sebelu",
+      "context": "Fuzzy Logic dipakai sebagai pengendali adaptif parameter GA. Crossover rate membaca diversity dan stagnansi hasil crossover untuk mengatur ruang eksplorasi; mutation rate membaca pergerakan skor fitness dari iterasi sebelumnya agar mutasi mengikuti faktor pertumbuhan fitness.",
+      "refs": [
+        "(Subburaj & Miruna Joe Amali, 2025)",
+        "(Pytel, 2025)",
+        "(Subburaj & Miruna Joe Amali, 2025)",
+        "(Pytel, 2025)"
+      ],
+      "pages": [
+        "Slide 35 · Hal. 13",
+        "Slide 35 · Hal. 4"
+      ],
+      "previewTitles": [
+        "A fuzzy system based self-adaptive memetic algorithm using population diversity control for evolutionary multi-objective optimization",
+        "Fuzzy logic applied to tunning mutation size in evolutionary algorithms"
+      ],
+      "links": [
+        "http://127.0.0.1:8000/assets/reference-pdfs/068%20-%20A%20fuzzy%20system%20based%20self-adaptive%20memetic%20algorithm%20using%20population%20diversity%20control%20for%20evolutionary%20multi-objective%20optimization.pdf",
+        "http://127.0.0.1:8000/assets/reference-pdfs/056%20-%20Fuzzy%20logic%20applied%20to%20tunning%20mutation%20size%20in%20evolutionary%20algorithms.pdf"
+      ],
+      "ok": true
+    },
+    {
+      "slide": 36,
+      "title": "Evaluasi dan Implementasi GUI",
+      "chapter": "Metodologi",
+      "clickTarget": ".slide.active .subdesc",
+      "clickedText": "Evaluasi dan GUI membuat proses optimasi dapat dikonfigurasi, dipantau, dan diperiksa oleh pengguna. Dengan antarmuka ini, sistem tidak hanya berjalan sebagai skrip komputasi, teta",
+      "context": "Dataset praktikum FST memuat skala penjadwalan yang besar: program studi, mata praktikum, kelas, peserta, ruang, serta kebutuhan asisten harus dipadukan dalam kandidat jadwal yang layak.",
+      "refs": [
+        "(Azam et al., 2020)",
+        "(Marrouchi et al., 2024)",
+        "(Azam et al., 2020)",
+        "(Marrouchi et al., 2024)"
+      ],
+      "pages": [
+        "Slide 36 · Hal. 1",
+        "Slide 36 · Hal. 1"
+      ],
+      "previewTitles": [
+        "Fuzzy Type-1 Triangular Membership Function Approximation Using Fuzzy C-Means",
+        "Optimizing Unit Scheduling with Fuzzy Logic: A Strategic Approach for Efficient Power Network Operations"
+      ],
+      "links": [
+        "http://127.0.0.1:8000/assets/reference-pdfs/011%20-%20Fuzzy%20Type-1%20Triangular%20Membership%20Function%20Approximation%20Using%20Fuzzy%20C-Means.pdf",
+        "http://127.0.0.1:8000/assets/reference-pdfs/042%20-%20Optimizing%20Unit%20Scheduling%20with%20Fuzzy%20Logic%20A%20Strategic%20Approach%20for%20Efficient%20Power%20Network%20Operations.pdf"
+      ],
+      "ok": true
+    },
+    {
+      "slide": 37,
+      "title": "BAB IV - Hasil dan Pembahasan",
+      "chapter": "Hasil",
+      "clickTarget": ".slide.active .subdesc",
+      "clickedText": "Skala dataset, implementasi sistem, dan perbandingan performa Classic GA dengan Fuzzy GA menjadi dasar pembacaan hasil. Fokus evaluasi diarahkan pada kualitas jadwal akhir serta di",
+      "context": "Perbandingan hasil digunakan untuk membaca performa Classic GA dan Fuzzy GA. Classic GA lebih kuat pada mayoritas metrik akhir, sedangkan Fuzzy GA membantu membaca stagnansi dan mengatur parameter selama proses evolusi.",
+      "refs": [
+        "(Yazid, 2025)",
+        "(Noptrina et al., 2024)",
+        "(Yazid, 2025)",
+        "(Noptrina et al., 2024)"
+      ],
+      "pages": [
+        "Slide 37 · Hal. 9",
+        "Slide 37 · Hal. 2"
+      ],
+      "previewTitles": [
+        "LABORATORIUM SEBAGAI LAYANAN TERPADU DI UNIVERSITAS – INTEGRASI EFISIENSI PELAYANAN DAN MANAJEMEN SUMBER DAYA",
+        "PERANCANGAN SISTEM PENJADWALAN PRAKTIKUM MENGGUNAKAN ALGORITMA FIFO (FIRST IN FIRST OUT) BERBASIS WEBSITE"
+      ],
+      "links": [
+        "http://127.0.0.1:8000/assets/reference-pdfs/083%20-%20LABORATORIUM%20SEBAGAI%20LAYANAN%20TERPADU%20DI%20UNIVERSITAS%20INTEGRASI%20EFISIENSI%20PELAYANAN%20DAN%20MANAJEMEN%20SUMBER%20DAYA.pdf",
+        "http://127.0.0.1:8000/assets/reference-pdfs/048%20-%20PERANCANGAN%20SISTEM%20PENJADWALAN%20PRAKTIKUM%20MENGGUNAKAN%20ALGORITMA%20FIFO%20(FIRST%20IN%20FIRST%20OUT)%20BERBASIS%20WEBSITE.pdf"
+      ],
+      "ok": true
+    },
+    {
+      "slide": 38,
+      "title": "Hasil dan Rekap Data Praktikum FST",
+      "chapter": "Hasil",
+      "clickTarget": ".slide.active .subdesc",
+      "clickedText": "Rekap data praktikum FST menunjukkan ruang pencarian yang besar karena banyak program studi, mata praktikum, kelas, peserta, ruangan, dan slot asisten harus diatur bersama. Skala i",
+      "context": "Dataset praktikum FST memuat skala penjadwalan yang besar: program studi, mata praktikum, kelas, peserta, ruang, serta kebutuhan asisten harus dipadukan dalam kandidat jadwal yang layak.",
+      "refs": [
+        "(Yazid, 2025)",
+        "(Noptrina et al., 2024)",
+        "(Yazid, 2025)",
+        "(Noptrina et al., 2024)"
+      ],
+      "pages": [
+        "Slide 38 · Hal. 3",
+        "Slide 38 · Hal. 1"
+      ],
+      "previewTitles": [
+        "LABORATORIUM SEBAGAI LAYANAN TERPADU DI UNIVERSITAS – INTEGRASI EFISIENSI PELAYANAN DAN MANAJEMEN SUMBER DAYA",
+        "PERANCANGAN SISTEM PENJADWALAN PRAKTIKUM MENGGUNAKAN ALGORITMA FIFO (FIRST IN FIRST OUT) BERBASIS WEBSITE"
+      ],
+      "links": [
+        "http://127.0.0.1:8000/assets/reference-pdfs/083%20-%20LABORATORIUM%20SEBAGAI%20LAYANAN%20TERPADU%20DI%20UNIVERSITAS%20INTEGRASI%20EFISIENSI%20PELAYANAN%20DAN%20MANAJEMEN%20SUMBER%20DAYA.pdf",
+        "http://127.0.0.1:8000/assets/reference-pdfs/048%20-%20PERANCANGAN%20SISTEM%20PENJADWALAN%20PRAKTIKUM%20MENGGUNAKAN%20ALGORITMA%20FIFO%20(FIRST%20IN%20FIRST%20OUT)%20BERBASIS%20WEBSITE.pdf"
+      ],
+      "ok": true
+    },
+    {
+      "slide": 39,
+      "title": "Implementasi Program dan Parameter Adaptif",
+      "chapter": "Hasil",
+      "clickTarget": ".slide.active .subdesc",
+      "clickedText": "Implementasi program memisahkan seeder, fitness function, adaptive crossover, dan adaptive mutation agar proses evolusi mudah diuji per komponen. Struktur ini juga memudahkan pelac",
+      "context": "Fuzzy Logic dipakai sebagai pengendali adaptif parameter GA. Crossover rate membaca diversity dan stagnansi hasil crossover untuk mengatur ruang eksplorasi; mutation rate membaca pergerakan skor fitness dari iterasi sebelumnya agar mutasi mengikuti faktor pertumbuhan fitness.",
+      "refs": [
+        "(Azam et al., 2020)",
+        "(Marrouchi et al., 2024)",
+        "(Azam et al., 2020)",
+        "(Marrouchi et al., 2024)"
+      ],
+      "pages": [
+        "Slide 39 · Hal. 6",
+        "Slide 39 · Hal. 1"
+      ],
+      "previewTitles": [
+        "Fuzzy Type-1 Triangular Membership Function Approximation Using Fuzzy C-Means",
+        "Optimizing Unit Scheduling with Fuzzy Logic: A Strategic Approach for Efficient Power Network Operations"
+      ],
+      "links": [
+        "http://127.0.0.1:8000/assets/reference-pdfs/011%20-%20Fuzzy%20Type-1%20Triangular%20Membership%20Function%20Approximation%20Using%20Fuzzy%20C-Means.pdf",
+        "http://127.0.0.1:8000/assets/reference-pdfs/042%20-%20Optimizing%20Unit%20Scheduling%20with%20Fuzzy%20Logic%20A%20Strategic%20Approach%20for%20Efficient%20Power%20Network%20Operations.pdf"
+      ],
+      "ok": true
+    },
+    {
+      "slide": 40,
+      "title": "Classic GA vs Fuzzy GA",
+      "chapter": "Hasil",
+      "clickTarget": ".slide.active .subdesc",
+      "clickedText": "Perbandingan Classic GA dan Fuzzy GA digunakan sebagai baseline pembacaan performa sistem. Hasil menunjukkan Classic GA lebih kuat pada beberapa metrik akhir, sedangkan Fuzzy GA me",
+      "context": "Perbandingan hasil digunakan untuk membaca performa Classic GA dan Fuzzy GA. Classic GA lebih kuat pada mayoritas metrik akhir, sedangkan Fuzzy GA membantu membaca stagnansi dan mengatur parameter selama proses evolusi.",
+      "refs": [
+        "(Han & Xiao, 2022)",
+        "(Ghaffar et al., 2022)",
+        "(Han & Xiao, 2022)",
+        "(Ghaffar et al., 2022)"
+      ],
+      "pages": [
+        "Slide 40 · Hal. 4",
+        "Slide 40 · Hal. 2"
+      ],
+      "previewTitles": [
+        "An improved adaptive genetic algorithm",
+        "Multi-objective fuzzy-based adaptive memetic algorithm with hyper-heuristics to solve university course timetabling problem"
+      ],
+      "links": [
+        "http://127.0.0.1:8000/assets/reference-pdfs/027%20-%20An%20improved%20adaptive%20genetic%20algorithm.pdf",
+        "http://127.0.0.1:8000/assets/reference-pdfs/024%20-%20Multi-objective%20fuzzy-based%20adaptive%20memetic%20algorithm%20with%20hyper-heuristics%20to%20solve%20university%20course%20timetabling%20problem.pdf"
+      ],
+      "ok": true
+    },
+    {
+      "slide": 41,
+      "title": "Hasil Jadwal, Implikasi, dan GUI",
+      "chapter": "Hasil",
+      "clickTarget": ".slide.active .subdesc",
+      "clickedText": "Evaluasi dan GUI membuat proses optimasi dapat dikonfigurasi, dipantau, dan diperiksa oleh pengguna. Dengan antarmuka ini, sistem tidak hanya berjalan sebagai skrip komputasi, teta",
+      "context": "Dataset praktikum FST memuat skala penjadwalan yang besar: program studi, mata praktikum, kelas, peserta, ruang, serta kebutuhan asisten harus dipadukan dalam kandidat jadwal yang layak.",
+      "refs": [
+        "(Azam et al., 2020)",
+        "(Marrouchi et al., 2024)",
+        "(Azam et al., 2020)",
+        "(Marrouchi et al., 2024)"
+      ],
+      "pages": [
+        "Slide 41 · Hal. 1",
+        "Slide 41 · Hal. 1"
+      ],
+      "previewTitles": [
+        "Fuzzy Type-1 Triangular Membership Function Approximation Using Fuzzy C-Means",
+        "Optimizing Unit Scheduling with Fuzzy Logic: A Strategic Approach for Efficient Power Network Operations"
+      ],
+      "links": [
+        "http://127.0.0.1:8000/assets/reference-pdfs/011%20-%20Fuzzy%20Type-1%20Triangular%20Membership%20Function%20Approximation%20Using%20Fuzzy%20C-Means.pdf",
+        "http://127.0.0.1:8000/assets/reference-pdfs/042%20-%20Optimizing%20Unit%20Scheduling%20with%20Fuzzy%20Logic%20A%20Strategic%20Approach%20for%20Efficient%20Power%20Network%20Operations.pdf"
+      ],
+      "ok": true
+    },
+    {
+      "slide": 42,
+      "title": "BAB V - Penutup",
+      "chapter": "Penutup",
+      "clickTarget": ".slide.active .subdesc",
+      "clickedText": "Temuan utama menunjukkan sistem berhasil berjalan sebagai optimasi penjadwalan praktikum dengan controller adaptif. Fuzzy Logic berperan mengatur parameter, bukan sebagai klaim ung",
+      "context": "Fuzzy Logic dipakai sebagai pengendali adaptif parameter GA. Crossover rate membaca diversity dan stagnansi hasil crossover untuk mengatur ruang eksplorasi; mutation rate membaca pergerakan skor fitness dari iterasi sebelumnya agar mutasi mengikuti faktor pertumbuhan fitness.",
+      "refs": [
+        "(Triyono & Kusrini, 2024)",
+        "(Ghaffar et al., 2022)",
+        "(Triyono & Kusrini, 2024)",
+        "(Ghaffar et al., 2022)"
+      ],
+      "pages": [
+        "Slide 42 · Hal. 2",
+        "Slide 42 · Hal. 3"
+      ],
+      "previewTitles": [
+        "Algoritma Genetika dalam Penjadwalan Mata Kuliah: Eksplorasi Metode Crossover, Mutasi, dan Seleksi Terbaik",
+        "Multi-objective fuzzy-based adaptive memetic algorithm with hyper-heuristics to solve university course timetabling problem"
+      ],
+      "links": [
+        "http://127.0.0.1:8000/assets/reference-pdfs/077%20-%20Algoritma%20Genetika%20dalam%20Penjadwalan%20Mata%20Kuliah%20Eksplorasi%20Metode%20Crossover%2C%20Mutasi%2C%20dan%20Seleksi%20Terbaik.pdf",
+        "http://127.0.0.1:8000/assets/reference-pdfs/024%20-%20Multi-objective%20fuzzy-based%20adaptive%20memetic%20algorithm%20with%20hyper-heuristics%20to%20solve%20university%20course%20timetabling%20problem.pdf"
+      ],
+      "ok": true
+    },
+    {
+      "slide": 43,
+      "title": "Kesimpulan dan Saran",
+      "chapter": "Penutup",
+      "clickTarget": ".slide.active .subdesc",
+      "clickedText": "Sistem penjadwalan praktikum berbasis GA berhasil dibangun dan diuji pada data FST. Fuzzy Logic diposisikan sebagai controller adaptif yang membantu dinamika pencarian, bukan sebag",
+      "context": "Fuzzy Logic dipakai sebagai pengendali adaptif parameter GA. Crossover rate membaca diversity dan stagnansi hasil crossover untuk mengatur ruang eksplorasi; mutation rate membaca pergerakan skor fitness dari iterasi sebelumnya agar mutasi mengikuti faktor pertumbuhan fitness.",
+      "refs": [
+        "(Triyono & Kusrini, 2024)",
+        "(Ghaffar et al., 2022)",
+        "(Triyono & Kusrini, 2024)",
+        "(Ghaffar et al., 2022)"
+      ],
+      "pages": [
+        "Slide 43 · Hal. 2",
+        "Slide 43 · Hal. 2"
+      ],
+      "previewTitles": [
+        "Algoritma Genetika dalam Penjadwalan Mata Kuliah: Eksplorasi Metode Crossover, Mutasi, dan Seleksi Terbaik",
+        "Multi-objective fuzzy-based adaptive memetic algorithm with hyper-heuristics to solve university course timetabling problem"
+      ],
+      "links": [
+        "http://127.0.0.1:8000/assets/reference-pdfs/077%20-%20Algoritma%20Genetika%20dalam%20Penjadwalan%20Mata%20Kuliah%20Eksplorasi%20Metode%20Crossover%2C%20Mutasi%2C%20dan%20Seleksi%20Terbaik.pdf",
+        "http://127.0.0.1:8000/assets/reference-pdfs/024%20-%20Multi-objective%20fuzzy-based%20adaptive%20memetic%20algorithm%20with%20hyper-heuristics%20to%20solve%20university%20course%20timetabling%20problem.pdf"
+      ],
+      "ok": true
+    },
+    {
+      "slide": 44,
+      "title": "Kesimpulan Utama dan Saran Pengembangan",
+      "chapter": "Penutup",
+      "clickTarget": ".slide.active .subdesc",
+      "clickedText": "Representasi gen, fitness, penalty, dan fuzzy controller sudah bekerja dalam satu sistem penjadwalan. Pengembangan berikutnya diarahkan pada Greedy post-processing untuk memperbaik",
+      "context": "Repair dan Greedy post-processing ditempatkan sebagai tahap penyempurnaan akhir. Jadwal terbaik diperiksa kembali, konflik residual seperti ruang, mata kuliah tatap muka/teori, asisten, dan kelompok dideteksi, lalu kandidat pengganti dicari tanpa menjalankan ulang seluruh optimasi.",
+      "refs": [
+        "(Triyono & Kusrini, 2024)",
+        "(Zhou et al., 2020)",
+        "(Triyono & Kusrini, 2024)",
+        "(Zhou et al., 2020)"
+      ],
+      "pages": [
+        "Slide 44 · Hal. 2",
+        "Slide 44 · Hal. 5"
+      ],
+      "previewTitles": [
+        "Algoritma Genetika dalam Penjadwalan Mata Kuliah: Eksplorasi Metode Crossover, Mutasi, dan Seleksi Terbaik",
+        "An improved genetic algorithm using greedy strategy toward task scheduling optimization in cloud environments"
+      ],
+      "links": [
+        "http://127.0.0.1:8000/assets/reference-pdfs/077%20-%20Algoritma%20Genetika%20dalam%20Penjadwalan%20Mata%20Kuliah%20Eksplorasi%20Metode%20Crossover%2C%20Mutasi%2C%20dan%20Seleksi%20Terbaik.pdf",
+        "http://127.0.0.1:8000/assets/reference-pdfs/088%20-%20An%20improved%20genetic%20algorithm%20using%20greedy%20strategy%20toward%20task%20scheduling%20optimization%20in%20cloud%20environments.pdf"
+      ],
+      "ok": true
+    },
+    {
+      "slide": 45,
+      "title": "Terima Kasih",
+      "chapter": "Penutup",
+      "clickTarget": ".slide.active p",
+      "clickedText": "Q&A",
+      "context": "Konteks ini diambil dari struktur skripsi: penjadwalan praktikum diperlakukan sebagai masalah optimasi karena ruang, waktu, peserta, durasi, dan asisten harus dipadukan secara layak.",
+      "refs": [
+        "(Yazid, 2025)",
+        "(Pratama, 2025)",
+        "(Yazid, 2025)",
+        "(Pratama, 2025)"
+      ],
+      "pages": [
+        "Slide 45 · Hal. 7",
+        "Slide 45 · Hal. 1"
+      ],
+      "previewTitles": [
+        "LABORATORIUM SEBAGAI LAYANAN TERPADU DI UNIVERSITAS – INTEGRASI EFISIENSI PELAYANAN DAN MANAJEMEN SUMBER DAYA",
+        "Sistem Penjadwalan Otomatis Menggunakan Algoritma Genetika pada Lingkungan Sekolah"
+      ],
+      "links": [
+        "http://127.0.0.1:8000/assets/reference-pdfs/083%20-%20LABORATORIUM%20SEBAGAI%20LAYANAN%20TERPADU%20DI%20UNIVERSITAS%20INTEGRASI%20EFISIENSI%20PELAYANAN%20DAN%20MANAJEMEN%20SUMBER%20DAYA.pdf",
+        "http://127.0.0.1:8000/assets/reference-pdfs/055%20-%20Sistem%20Penjadwalan%20Otomatis%20Menggunakan%20Algoritma%20Genetika%20pada%20Lingkungan%20Sekolah.pdf"
+      ],
+      "ok": true
+    }
+  ]
+}

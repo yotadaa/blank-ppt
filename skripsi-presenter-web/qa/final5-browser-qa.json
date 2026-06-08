@@ -1,0 +1,64 @@
+{
+  "pass": true,
+  "viewport": {
+    "h": 720,
+    "w": 1280
+  },
+  "initial8": {
+    "activeSlide": "1",
+    "activeTitle": "Optimasi Algoritma Genetika Menggunakan Fuzzy Logic pada Penjadwalan Praktikum",
+    "brokenImages": [],
+    "canvasBox": {
+      "bottom": 709.010009765625,
+      "height": 698.025634765625,
+      "left": 19.53125,
+      "right": 1260.4656982421875,
+      "top": 10.984375,
+      "width": 1240.9344482421875,
+      "x": 19.53125,
+      "y": 10.984375
+    },
+    "scale": "0.8079",
+    "shellBox": {
+      "bottom": 709,
+      "height": 698.015625,
+      "left": 19.53125,
+      "right": 1260.453125,
+      "top": 10.984375,
+      "width": 1240.921875,
+      "x": 19.53125,
+      "y": 10.984375
+    },
+    "slides": 45,
+    "title": "Presenter Web - Optimasi Penjadwalan Praktikum"
+  },
+  "right8": {
+    "activeSlide": "2",
+    "activeTitle": "Agenda Presentasi",
+    "detailOpen": false
+  },
+  "left8": {
+    "activeSlide": "1",
+    "activeTitle": "Optimasi Algoritma Genetika Menggunakan Fuzzy Logic pada Penjadwalan Praktikum",
+    "detailOpen": false
+  },
+  "detail8": {
+    "hasImage": true,
+    "open": true,
+    "refs": [
+      "(Yazid, 2025)",
+      "(Pangestu et al., 2023)"
+    ],
+    "tableHeaders": [
+      "Bagian",
+      "Fokus"
+    ]
+  },
+  "nav8": {
+    "activeNav": "Hasil",
+    "activeSlide": "37",
+    "activeTitle": "BAB IV - Hasil dan Pembahasan"
+  },
+  "relevantLogCount": 0,
+  "logs": []
+}

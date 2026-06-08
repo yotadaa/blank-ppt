@@ -1,0 +1,37 @@
+{
+  "viewport": {
+    "h": 720,
+    "w": 1280
+  },
+  "navRight3": {
+    "activeNav": "Pendahuluan",
+    "activeSlide": "2",
+    "activeTitle": "Agenda Presentasi",
+    "detailOpen": false,
+    "hash": "#slide-2",
+    "viewport": {
+      "h": 720,
+      "w": 1280
+    }
+  },
+  "detail3": {
+    "bodyChars": 546,
+    "hasImage": true,
+    "hasTable": true,
+    "open": true,
+    "refs": [
+      "(Yazid, 2025)",
+      "(Pangestu et al., 2023)"
+    ],
+    "title": "Agenda memberi peta singkat alur presentasi agar pembahasan bergerak dari masa..."
+  },
+  "navLeft3": {
+    "activeNav": "Pendahuluan",
+    "activeSlide": "2",
+    "activeTitle": "Agenda Presentasi",
+    "detailOpen": false,
+    "hash": "#slide-2"
+  },
+  "relevantLogCount": 0,
+  "logs": []
+}

@@ -1,0 +1,226 @@
+{
+  "slidesChecked": 25,
+  "modalFailures": [
+    {
+      "slide": 1,
+      "reason": "modal not found",
+      "title": "Optimasi Algoritma Genetika Menggunakan Fuzzy Logic pada Penjadwalan Praktikum"
+    },
+    {
+      "slide": 2,
+      "reason": "modal not found",
+      "title": "Agenda Presentasi"
+    },
+    {
+      "slide": 3,
+      "reason": "modal not found",
+      "title": "BAB I - Pendahuluan"
+    },
+    {
+      "slide": 4,
+      "reason": "active slide not ready"
+    },
+    {
+      "slide": 5,
+      "reason": "modal not found",
+      "title": "Masalah Penjadwalan Praktikum"
+    },
+    {
+      "slide": 6,
+      "reason": "active slide not ready"
+    },
+    {
+      "slide": 7,
+      "reason": "modal not found",
+      "title": "Arah Penelitian"
+    },
+    {
+      "slide": 8,
+      "reason": "active slide not ready"
+    },
+    {
+      "slide": 9,
+      "reason": "modal not found",
+      "title": "BAB II - Tinjauan Pustaka"
+    },
+    {
+      "slide": 10,
+      "reason": "active slide not ready"
+    },
+    {
+      "slide": 11,
+      "reason": "modal not found",
+      "title": "Algoritma Genetika"
+    },
+    {
+      "slide": 12,
+      "reason": "active slide not ready"
+    },
+    {
+      "slide": 13,
+      "reason": "modal not found",
+      "title": "Pembangkitan Kromosom"
+    },
+    {
+      "slide": 14,
+      "reason": "modal not found",
+      "title": "Fitness Function"
+    },
+    {
+      "slide": 15,
+      "reason": "active slide not ready"
+    },
+    {
+      "slide": 16,
+      "reason": "modal not found",
+      "title": "Mutation"
+    },
+    {
+      "slide": 17,
+      "reason": "active slide not ready"
+    },
+    {
+      "slide": 18,
+      "reason": "modal not found",
+      "title": "Penerapan AG dalam Penjadwalan"
+    },
+    {
+      "slide": 19,
+      "reason": "active slide not ready"
+    },
+    {
+      "slide": 20,
+      "reason": "modal not found",
+      "title": "Fuzzy Logic dan Variabel Linguistik"
+    },
+    {
+      "slide": 21,
+      "reason": "active slide not ready"
+    },
+    {
+      "slide": 22,
+      "reason": "modal not found",
+      "title": "Evaluasi Kinerja Hybrid Genetic Algorithm"
+    },
+    {
+      "slide": 23,
+      "reason": "active slide not ready"
+    },
+    {
+      "slide": 24,
+      "reason": "modal not found",
+      "title": "Penelitian Terdahulu"
+    },
+    {
+      "slide": 25,
+      "reason": "active slide not ready"
+    },
+    {
+      "slide": 26,
+      "reason": "modal not found",
+      "title": "Metodologi Penelitian dan Pengumpulan Data"
+    },
+    {
+      "slide": 27,
+      "reason": "active slide not ready"
+    },
+    {
+      "slide": 28,
+      "reason": "modal not found",
+      "title": "Repair dan Post-Processing Konflik"
+    },
+    {
+      "slide": 29,
+      "reason": "active slide not ready"
+    },
+    {
+      "slide": 30,
+      "reason": "modal not found",
+      "title": "Inisialisasi Populasi Awal"
+    },
+    {
+      "slide": 31,
+      "reason": "modal not found",
+      "title": "Penalty sebagai Dasar Kualitas Jadwal"
+    },
+    {
+      "slide": 32,
+      "reason": "active slide not ready"
+    },
+    {
+      "slide": 33,
+      "reason": "modal not found",
+      "title": "Menjaga Keragaman Populasi"
+    },
+    {
+      "slide": 34,
+      "reason": "active slide not ready"
+    },
+    {
+      "slide": 35,
+      "reason": "modal not found",
+      "title": "Fuzzy untuk Mengatur Cr dan Mr"
+    },
+    {
+      "slide": 36,
+      "reason": "active slide not ready"
+    },
+    {
+      "slide": 37,
+      "reason": "modal not found",
+      "title": "BAB IV - Hasil dan Pembahasan"
+    },
+    {
+      "slide": 38,
+      "reason": "active slide not ready"
+    },
+    {
+      "slide": 39,
+      "reason": "modal not found",
+      "title": "Implementasi Program dan Parameter Adaptif"
+    },
+    {
+      "slide": 40,
+      "reason": "active slide not ready"
+    },
+    {
+      "slide": 41,
+      "reason": "modal not found",
+      "title": "Hasil Jadwal, Implikasi, dan GUI"
+    },
+    {
+      "slide": 42,
+      "reason": "active slide not ready"
+    },
+    {
+      "slide": 43,
+      "reason": "modal not found",
+      "title": "Kesimpulan dan Saran"
+    },
+    {
+      "slide": 44,
+      "reason": "active slide not ready"
+    },
+    {
+      "slide": 45,
+      "reason": "modal not found",
+      "title": "Terima Kasih"
+    }
+  ],
+  "failureCount": 45,
+  "slidesWithCards": 0,
+  "totalCardsObserved": 0,
+  "screenshots": [
+    "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\presenter-slide-02-reference-modal-qa.png",
+    "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\presenter-slide-13-reference-modal-qa.png",
+    "C:\\skripsi\\outputs\\manual-20260605-presenter-web\\presentations\\skripsi-presenter-web\\qa\\presenter-slide-30-reference-modal-qa.png"
+  ],
+  "sampleFormerMissing": [
+    {
+      "slide": 2,
+      "opened": false,
+      "reason": "modal not found",
+      "title": "Agenda Presentasi"
+    }
+  ]
+}

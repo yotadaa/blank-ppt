@@ -1,0 +1,12 @@
+i think we should move this into react, make a new workspace for this, do not replace.
+here is the big idea, load the full script of my thesis into the webpage, Draft Skripsi F1E122037 Fix.docx;
+we can open preview of docs for the clicked paragraph in slide. not directly, but interacted via button. the button "Lihat di draft" in the modal;
+we have performance issue, the page a much bit heavy;
+we add feature to change the text put into the slide, by clicking the paragraph in the slide, then click "Replace text" then show the draft and choose the text (not the whole paragraph). Can choose multiple text from different paragraph;
+load all the assets of images and can put the images into the slide (or replace the current images), freely. it can manges z index position too (depth level);
+think of another feature that may useful;
+lets make the plan first, a big and complete, comprehensive plan;
+define the task list in detail to make sure we dont left any work not done;
+the content in indonesian;
+it should be react with vite to improve performance;
+after done planning, immediately execute. (add feature to change theme and color scheme too)

@@ -1,0 +1,34 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+build/
+.next/
+*.tsbuildinfo
+
+# Runtime logs and local OS/editor files
+*.log
+.DS_Store
+
+# Browser runtime profiles created by QA scripts
+**/chrome-*-profile/
+**/chrome-shot-profile-*/
+qa/chrome-profile-*/
+
+# Generated QA scratch artifacts. Curated QA evidence can still be
+# explicitly force-added when it needs to live in the repository.
+qa/downloads/
+qa/react-slide-captures-*/
+qa/react-slide-montage-*.html
+qa/react-slide-montage-*.png
+qa/screenshots/debug-*.png
+qa/screenshots/qa-*.png
+qa/*.json
+
+# Accidental root lockfile; the app lockfile lives in code-snapshot/
+/package-lock.json
+
+# Local AI/session artifacts
+.opencode-context.md
+.opencode-jce/

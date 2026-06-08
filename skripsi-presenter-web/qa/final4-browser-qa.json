@@ -1,0 +1,52 @@
+{
+  "pass": true,
+  "viewport": {
+    "h": 720,
+    "w": 1280
+  },
+  "initial7": {
+    "activeNav": "Pendahuluan",
+    "activeSlide": "1",
+    "activeTitle": "Optimasi Algoritma Genetika Menggunakan Fuzzy Logic pada Penjadwalan Praktikum",
+    "brokenImages": [],
+    "edgeZones": true,
+    "slides": 45,
+    "title": "Presenter Web - Optimasi Penjadwalan Praktikum"
+  },
+  "right7": {
+    "activeSlide": "2",
+    "activeTitle": "Agenda Presentasi",
+    "detailOpen": false,
+    "hash": "#slide-2"
+  },
+  "left7": {
+    "activeSlide": "1",
+    "activeTitle": "Optimasi Algoritma Genetika Menggunakan Fuzzy Logic pada Penjadwalan Praktikum",
+    "detailOpen": false,
+    "hash": "#slide-1"
+  },
+  "detail7": {
+    "context": "Agenda berfungsi sebagai peta alur presentasi. Bagian yang dipilih menunjukkan posisi pembahasan dalam struktur skripsi, mulai dari masalah penelitian sampai kesimpulan dan sesi tanya jawab.",
+    "hasImage": true,
+    "open": true,
+    "refs": [
+      "(Yazid, 2025)",
+      "(Pangestu et al., 2023)"
+    ],
+    "tableHeaders": [
+      "Bagian",
+      "Fokus"
+    ],
+    "title": "1. Pendahuluan Masalah, tujuan, manfaat, dan kontribusi penelitian."
+  },
+  "nav7": {
+    "activeNav": "Hasil",
+    "activeSlide": "37",
+    "activeTitle": "BAB IV - Hasil dan Pembahasan",
+    "navGliderLeft": "267.4686862980026px",
+    "navGliderWidth": "53.187541581569505px",
+    "outline": "solid"
+  },
+  "relevantLogCount": 0,
+  "logs": []
+}
